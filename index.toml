@@ -1094,7 +1094,7 @@ hash = "9d0d2436c069e42e908428306af4ba795165f99a370a62ed87580ca01c98b28c"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "38a4df5e8bebbc0a9a6a0e7bdf6fbb93e677a1d1ef18422dc4ebbfde8cf50a94"
+hash = "6b366a83c8b3b4e6a70360d4fc86540041448477122e2663297cd2717f0c4a17"
 
 [[files]]
 file = "config/betterbeaconplacement.json5"
@@ -3053,7 +3053,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-backups.pw.toml"
-hash = "c2aa210df92ce33ecc56300a113721e791d81b7b05218f2915b42026ff4d34a1"
+hash = "351623bbb56fc3d229ed2ca0059d98f6ef9c69ad579ea1f0db7ef735955d0aff"
 metafile = true
 
 [[files]]

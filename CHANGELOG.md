@@ -1,3 +1,6 @@
+### 0.2.3
+- Updated Simple Backups (4.0.9 -> 4.0.10) to stop server crashing on startup
+
 ### 0.2.2
 - Force SmartBrainLib to be required by both client and server
 
