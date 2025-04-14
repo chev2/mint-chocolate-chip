@@ -1094,7 +1094,7 @@ hash = "9d0d2436c069e42e908428306af4ba795165f99a370a62ed87580ca01c98b28c"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "81060f62d7ce6c9322a170df6d0360ec69689723dfb398a6abcc6b69ec46ef3e"
+hash = "38a4df5e8bebbc0a9a6a0e7bdf6fbb93e677a1d1ef18422dc4ebbfde8cf50a94"
 
 [[files]]
 file = "config/betterbeaconplacement.json5"
@@ -3068,7 +3068,7 @@ metafile = true
 
 [[files]]
 file = "mods/smartbrainlib.pw.toml"
-hash = "ef3251044a28b2a4124c4f1b7b7a740845afc25d9c94ecab5851bc70aa503c89"
+hash = "f9738a10bb027eaf600f533a6e5ba00d7d1bf5f277c5c0c7f765123d0d2c4ade"
 metafile = true
 
 [[files]]

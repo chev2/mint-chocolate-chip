@@ -1,12 +1,12 @@
 name = "Mint Chocolate Chip"
 author = "Chev"
-version = "0.2.1"
+version = "0.2.2"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "29ca7146ee2fbf11b3156e3632d59089ea76cdcb9d877e8bc24a168c0dc901f3"
+hash = "3cd1b6f9526a8e11436c548f0689629efa11afe40d422e72f5aab8084a97a539"
 
 [versions]
 minecraft = "1.21.1"
