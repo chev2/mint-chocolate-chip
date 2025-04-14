@@ -1,6 +1,8 @@
+# Mint Chocolate Chip
+
 [Modrinth Link](https://modrinth.com/modpack/mint-chocolate-chip)
 
-# Mint Chocolate Chip
+# Description
 A modpack that focuses on exploration, magic and cooking, with a little bit of tech to construct explosive weaponry.
 
 There is an in-game guidebook with some beginner's tips on things the player should be aware of, as well as a summary of most of the big or notable mods in the pack. Beyond that, the end goal is completely up to the player.
@@ -26,3 +28,12 @@ There is some CurseForge mods used in this pack, which are linked below:
 - [Pam's HarvestCraft 2 - Food Core](https://www.curseforge.com/minecraft/mc-mods/pams-harvestcraft-2-food-core)
 - [Placebo](https://www.curseforge.com/minecraft/mc-mods/placebo)
 - [Spice of Life: Carrot Edition](https://www.curseforge.com/minecraft/mc-mods/spice-of-life-carrot-edition)
+
+# Build
+
+[packwiz](https://github.com/packwiz/packwiz) is required to build this pack.
+
+1. Install packwiz however you like.
+2. Clone this repository locally.
+3. Run `packwiz modrinth export` (or `packwiz curseforge export`, but I haven't tried it) from the root of the repository.
+4. If all went well, you should have a `Mint Chocolate Chip-x.y.z.mrpack` file in the root directory of the repository.
