@@ -1,0 +1,13 @@
+name = "Utilitarian"
+filename = "utilitarian-1.21.1-0.13.9.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/odpTfrvd/versions/eERix4mi/utilitarian-1.21.1-0.13.9.jar"
+hash-format = "sha512"
+hash = "f966c6c18645388d2a78e415ccdcab37cfe2f004e335a59e322f8ebe8f00b8e6e9d5cabe9b423854001ccd404e0f7b347faf9a234867f51139458a904762d1d6"
+
+[update]
+[update.modrinth]
+mod-id = "odpTfrvd"
+version = "eERix4mi"

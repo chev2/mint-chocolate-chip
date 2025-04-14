@@ -1,0 +1,11 @@
+{
+    "name": "Tameable foxes",
+    "icon": "minecraft:sweet_berries",
+    "category": "patchouli:modpack_misc",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Foxes can be tamed in this modpack. Simply feed them sweet berries."
+        }
+    ]
+}

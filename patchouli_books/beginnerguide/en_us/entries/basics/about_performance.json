@@ -1,0 +1,15 @@
+{
+    "name": "6. About performance",
+    "icon": "minecraft:redstone",
+    "category": "patchouli:modpack_about",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "This modpack is mostly vanilla+, but still adds a lot of mods, so you're likely going to need $(bold)at least 4GB of RAM$() to run it without issues. $(bold)6GB$() is a good recommended value."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "If you notice your $(bold)GPU$() is at 100% usage while playing, $(bold)disable shaders$().$(br)$(br)If you notice your $(bold)CPU$() is at 100% usage while playing, change the Distant Horizons config (the colored grid in the top left of the options menu) so that 'CPU load' is at minimal, or just disable Distant Horizons outright (set 'Enable Rendering' to 'false')."
+        }
+    ]
+}

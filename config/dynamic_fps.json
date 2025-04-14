@@ -1,0 +1,10 @@
+{
+  "idle": {
+    "condition": "none"
+  },
+  "states": {
+    "unfocused": {
+      "frame_rate_target": 10
+    }
+  }
+}

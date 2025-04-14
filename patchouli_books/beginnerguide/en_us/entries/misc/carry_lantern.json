@@ -1,0 +1,11 @@
+{
+    "name": "Carryable lanterns",
+    "icon": "minecraft:lantern",
+    "category": "patchouli:modpack_misc",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Lanterns (and soul lanterns) can be carried as an accessory and emit light without being held in your hand. Open the accessories menu and equip it on a 'belt' slot."
+        }
+    ]
+}

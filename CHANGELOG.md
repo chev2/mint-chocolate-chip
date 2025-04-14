@@ -3,6 +3,7 @@
 - Updated NeoForge (21.1.141 -> 21.1.147)
 - Added missing dependency: SmartBrainLib
 - Removed Make Bubbles Pop (incompatible with NeoForge)
+- Cleaned up some cache/unneeded config files from being packed
 
 ### 0.2.0
 - Using packwiz to build the pack now (previously was using Prism Launcher)

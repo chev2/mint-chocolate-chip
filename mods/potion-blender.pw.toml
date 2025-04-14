@@ -1,0 +1,13 @@
+name = "Potion Blender"
+filename = "potionblender-1.21.1-NeoForge-3.1.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/xe4saW9d/versions/dfgfgeRp/potionblender-1.21.1-NeoForge-3.1.2.jar"
+hash-format = "sha512"
+hash = "c48d8b0d68bc022d2950201c8005a857d6e8d032b1ac1bd801c8d6e883fda069132fe7f565fe20e8286a68e8670289ecf566e238a632792508d1be9c80628392"
+
+[update]
+[update.modrinth]
+mod-id = "xe4saW9d"
+version = "dfgfgeRp"

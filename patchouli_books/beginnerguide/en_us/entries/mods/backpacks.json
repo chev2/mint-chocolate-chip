@@ -1,0 +1,26 @@
+{
+    "name": "Backpacks",
+    "icon": "sophisticatedbackpacks:backpack",
+    "category": "patchouli:modpack_mods",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(bold)Sophisticated Backpacks$() adds wearable backpacks to the game, allowing you to carry more storage, even in the early game.$(br)$(br)The backpacks come in multiple tiers, with each tier holding more storage and upgrade slots than the last.$(br)$(br)The mod also comes with equippable upgrades, allowing for things like increased stack sizes, auto-pickup and more."
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "sophisticatedbackpacks:backpack",
+            "recipe2": "sophisticatedbackpacks:copper_backpack"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "sophisticatedbackpacks:iron_backpack",
+            "recipe2": "sophisticatedbackpacks:gold_backpack"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "sophisticatedbackpacks:diamond_backpack",
+            "text": "The netherite backpack is obtained the same way as other netherite gear--in a smithing table, use a diamond backpack, a smithing template, and a netherite ingot."
+        }
+    ]
+}

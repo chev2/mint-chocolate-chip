@@ -1,0 +1,13 @@
+name = "Everything is Copper"
+filename = "everythingcopper-1.21.1-2.4.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/73MCa9Po/versions/dnoUh0Rf/everythingcopper-1.21.1-2.4.2.jar"
+hash-format = "sha512"
+hash = "e51bd007ec68da13bc4ad87d98042e8856b1aa92a5fb65dba4546d6755c90a0765d54be6a41c394674d96511eae6d0afb48398b90a28e9aa7b0971b6dc76d101"
+
+[update]
+[update.modrinth]
+mod-id = "73MCa9Po"
+version = "dnoUh0Rf"

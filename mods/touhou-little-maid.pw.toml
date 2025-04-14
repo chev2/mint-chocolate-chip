@@ -1,0 +1,13 @@
+name = "Touhou Little Maid"
+filename = "touhoulittlemaid-1.21.1-release-1.2.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/R0bDWFAW/versions/hWplbBvP/touhoulittlemaid-1.21.1-release-1.2.1.jar"
+hash-format = "sha512"
+hash = "b70d74dbdd57d8a59f9e3d6247c025b8ef4531f8e6b28a7c57ccd44eabd504ca577616a54b91f980ad9319cb575de555ca54e9f16830d07dec252ae491140f66"
+
+[update]
+[update.modrinth]
+mod-id = "R0bDWFAW"
+version = "hWplbBvP"

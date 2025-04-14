@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "group": "moyai",
+  "pattern": [
+    "## ",
+    "## ",
+    "## "
+  ],
+  "key": {
+    "#": {
+        "item": "minecraft:cobbled_deepslate"
+    }
+  },
+  "result": {
+    "id": "moyai:moyai",
+    "count": 1
+  }
+}

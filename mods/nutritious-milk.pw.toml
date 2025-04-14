@@ -1,0 +1,13 @@
+name = "Nutritious Milk"
+filename = "nutritiousmilk-1.21.1-3.5.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/V4iy0Bhx/versions/ZPSKkcnK/nutritiousmilk-1.21.1-3.5.jar"
+hash-format = "sha512"
+hash = "1cc2e5f0b4b9ff2fc93e62084dafa3cb5f8b194cbd60eb83daba7814069f96215d1a9eae2057d78784facbfc09d8c3126632853ae7ad465e672c212bc11512ce"
+
+[update]
+[update.modrinth]
+mod-id = "V4iy0Bhx"
+version = "ZPSKkcnK"

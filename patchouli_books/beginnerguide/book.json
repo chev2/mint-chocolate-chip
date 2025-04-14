@@ -1,0 +1,7 @@
+{
+    "name": "Essential Modpack Guide",
+    "landing_text": "A guide to the modpack, with information on how to play, what mods are available, and some tips & tricks.$(br)$(br)It's recommended to read things in 'essentials' if nothing else.",
+    "version": 1,
+    "creative_tab": "minecraft:tools_and_utilities",
+    "use_resource_pack": false
+}

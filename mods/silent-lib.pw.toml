@@ -1,0 +1,13 @@
+name = "Silent Lib"
+filename = "silent-lib-1.21.1-neoforge-10.4.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/BQhuHQo4/versions/2sFKCoHS/silent-lib-1.21.1-neoforge-10.4.0.jar"
+hash-format = "sha512"
+hash = "aabc0f6324acc7705f9911befcaf1915a0024645a1aa25c41d3bc3b3ca61599d61a9c1960579ab231db991c98a451858622e3037c0edd3cf6e7eb3467c7a4a97"
+
+[update]
+[update.modrinth]
+mod-id = "BQhuHQo4"
+version = "2sFKCoHS"

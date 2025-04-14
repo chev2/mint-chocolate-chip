@@ -1,0 +1,15 @@
+{
+    "name": "2. Useful keybinds",
+    "icon": "touhou_little_maid:keyboard",
+    "category": "patchouli:modpack_about",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(li)M - Open the map$(li)C - Zoom in (use scroll wheel to adjust zoom level)$(li)G - Open accessories menu (new slots to place items like gloves, belts, hats, etc.)$(li)B - Open backpack inventory, if the player has one"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(li)R - when hovering over any item or block, view its crafting recipe.$(li)U - when hovering over any item or block, see which crafting recipes it's used as an ingredient."
+        }
+    ]
+}

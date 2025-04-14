@@ -1,0 +1,13 @@
+name = "Baby Animals Remastered"
+filename = "BabyAnimalsRemastered_1.21_v1.3.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/gZJVL0dl/versions/EF4vShAz/BabyAnimalsRemastered_1.21_v1.3.zip"
+hash-format = "sha512"
+hash = "b4cb0bb41d1c50c05e03abbee0fffb05f55d6400a0bb17d3eb97ff3e440f7fc79c634fe59b4dbd51d436aaa4d8b0f31c144f24e262c657a22eee41eaadfb7f3f"
+
+[update]
+[update.modrinth]
+mod-id = "gZJVL0dl"
+version = "EF4vShAz"

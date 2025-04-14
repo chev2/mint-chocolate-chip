@@ -1,0 +1,26 @@
+{
+    "name": "New Dimensions",
+    "icon": "aether:aether_portal_frame",
+    "category": "patchouli:modpack_mods",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "This modpack adds 1 new dimension: $(bold)The Aether$().$(br)$(br)It can be reached via a portal. Build glowstone in the shape of a nether portal (4 blocks wide, 5 blocks tall), and activate the portal using a water bucket."
+        },
+        {
+            "type": "patchouli:multiblock",
+            "multiblock": {
+                "mapping": {
+                    "F": "minecraft:glowstone"
+                },
+                "pattern": [
+                    [" FF "],
+                    ["F  F"],
+                    ["F  F"],
+                    ["F 0F"],
+                    [" FF "]
+                ]
+            }
+        }
+    ]
+}

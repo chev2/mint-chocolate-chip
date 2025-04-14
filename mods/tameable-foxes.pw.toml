@@ -1,0 +1,13 @@
+name = "Tameable Foxes"
+filename = "tameablefoxes-1.0.3-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/NcZSHHC2/versions/ClNXf6M8/tameablefoxes-1.0.3-neoforge-1.21.1.jar"
+hash-format = "sha512"
+hash = "a195344cd09e6d11fe4ce7b984694784386b35165c1a3825e125b3750b1aa32ce414c3dcf49c57573d46890b6f1bb9e70451b9c02ae73eba09ab523c74b22499"
+
+[update]
+[update.modrinth]
+mod-id = "NcZSHHC2"
+version = "ClNXf6M8"

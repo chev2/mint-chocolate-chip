@@ -1,0 +1,16 @@
+{
+    "name": "Helpful compasses",
+    "icon": "naturescompass:naturescompass",
+    "category": "patchouli:modpack_misc",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "The $(bold)Nature's Compass$() and $(bold)Explorer's Compass$() mods add very useful compasses. The nature's compass lets you locate any biome, and the explorer's compass lets you locate any structure."
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "naturescompass:natures_compass",
+            "recipe2": "explorerscompass:explorers_compass"
+        }
+    ]
+}

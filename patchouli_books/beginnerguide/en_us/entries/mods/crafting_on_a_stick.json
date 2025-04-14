@@ -1,0 +1,16 @@
+{
+    "name": "Crafting on a Stick",
+    "icon": "crafting_on_a_stick:crafting_table",
+    "category": "patchouli:modpack_mods",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Crafting on-the-go!$(br)$(br)This mod adds a lot of different portable crafting options. Simply right click them in hand to open their menu.$(br)$(br)Type $(bold)@craftingonastick$() into JEI to see all the available items."
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "crafting_on_a_stick:crafting_table",
+            "recipe2": "crafting_on_a_stick:anvil"
+        }
+    ]
+}

@@ -1,0 +1,13 @@
+name = "Horde Nights"
+filename = "[1.21-1.21.4 EX] Horde Nights v1.3.1.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/jGO2ac1X/versions/vh3oiaVP/[1.21-1.21.4%20EX]%20Horde%20Nights%20v1.3.1.zip"
+hash-format = "sha512"
+hash = "cc63ea3ec1e9d7b5618b1cb71dd66fb370bba96f79bf2565d0a93590e383635cb02fee9b08a6c124f95df704e24dc0580a19e62e7e90a1387517a24632530a36"
+
+[update]
+[update.modrinth]
+mod-id = "jGO2ac1X"
+version = "vh3oiaVP"

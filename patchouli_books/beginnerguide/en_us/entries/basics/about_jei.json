@@ -1,0 +1,15 @@
+{
+    "name": "5. About JEI",
+    "icon": "minecraft:saddle",
+    "category": "patchouli:modpack_about",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "You might've noticed that, when you open your inventory, there is a big menu on the right with every item & block in the game.$(br)$(br)This is $(bold)JEI$() (Just Enough Items) and it tells you about the recipes for every single item and block.$(br)$(br)It comes with a search bar at the bottom to filter items."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "There is also a $(bold)favorites$() menu on the left of the inventory. Simply press $(bold)A$() on any item anywhere to add it to favorites for later reference.$(br)$(br)Want to filter by mod? Simply type the mod name, prepended with $(bold)@$(). For example, to see all Aether items, type $(bold)@theaether$().$(br)$(br)Want to search multiple queries at once? Use a vertical column, $(bold)|$(). For example, type $(bold)dirt|stone$() to see all 'dirt' items as well as all 'stone' items."
+        }
+    ]
+}

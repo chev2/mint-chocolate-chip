@@ -1,0 +1,13 @@
+name = "Dungeons+"
+filename = "Dungeons+ 1.9.0.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/nHORcEHd/versions/c4Dxqlj2/Dungeons+%201.9.0.zip"
+hash-format = "sha512"
+hash = "1d18ad3fb9f0fdc550e4336aa17142f6a3c50f4d356c691e64b8036c8ae8dde350e2be4f352ceedb3b4719c37873475854f050b0d9c82b587c218656e38d419b"
+
+[update]
+[update.modrinth]
+mod-id = "nHORcEHd"
+version = "c4Dxqlj2"

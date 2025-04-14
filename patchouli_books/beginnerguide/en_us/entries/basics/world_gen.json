@@ -1,0 +1,15 @@
+{
+    "name": "1. About world gen",
+    "icon": "minecraft:spruce_sapling",
+    "category": "patchouli:modpack_about",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "The world generation may look intimidating at first, but it's designed to be vanilla-friendly.$(br)$(br)Just explore as you normally would, and find cool structures along the way."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "Some things to be aware of:$(br)$(li)There are floating islands. How you reach them is up to you.$(li)There are a lot of new structures that spawn, explore them to find good loot.$(li)Villages may look a little different."
+        }
+    ]
+}

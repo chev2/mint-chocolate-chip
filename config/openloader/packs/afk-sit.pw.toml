@@ -1,0 +1,13 @@
+name = "AFK Sit"
+filename = "afk-sit+v1.0.1+mc1.20.3-1.21.1.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/aFIdKOKp/versions/c2S1Qn0W/afk-sit+v1.0.1+mc1.20.3-1.21.1.zip"
+hash-format = "sha512"
+hash = "d85368acfa70f04cb8c51a5474d7798716fef8c4b0c015cba1f48dff8e92787921f1455c4c6183ed7f1d626b26c26c94fee44dc369baf83d42ba29f948220cf6"
+
+[update]
+[update.modrinth]
+mod-id = "aFIdKOKp"
+version = "c2S1Qn0W"

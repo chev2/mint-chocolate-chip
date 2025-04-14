@@ -1,0 +1,51 @@
+{
+    "name": "Magic mods",
+    "icon": "ars_nouveau:dominion_wand",
+    "category": "patchouli:modpack_mods",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(bold)Relics$()$(br)$(br)Adds special unique items, such as charms and accessories, that augment the player with special abilities. Relics come in different rarities and can be upgraded."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(bold)Artifacts$()$(br)$(br)Much like relics, adds items that augment the player with unique abilities."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(bold)Ars Nouveau$()$(br)$(br)A magic mod inspired by Ars Magicka that allows players to craft their own spells, create magical artifacts, and perform rituals."
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "ars_nouveau:worn_notebook",
+            "text": "The guidebook to Ars Nouveau."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(bold)Occultism$()$(br)$(br)A ritual magic system centered around summoning spirits. Offers options for automation, storage, creating powerful tools and jewelry, commanding familiars, controlling demons to mine in void dimensions, and more."
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "occultism:crafting/dictionary_of_spirits",
+            "text": "The guidebook to Occultism."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(bold)Hexerei$()$(br)$(br)A mod that lets you concoct items using a mixing cauldron, store items in coffers, store herbs in herb jars, light up areas with colored candles, and more."
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "hexerei:book_of_shadows",
+            "text": "The guidebook to Hexerei."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(bold)Iron's Spells 'n Spellbooks$()$(br)$(br)A mod focused on learning and upgrading spells. The mod is designed to be simple, allowing anyone to use powerful spells without large investment into tedious details."
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "irons_spellbooks:patchouli_book",
+            "text": "The guidebook to Iron's Spells 'n Spellbooks."
+        }
+    ]
+}

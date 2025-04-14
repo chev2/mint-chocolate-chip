@@ -1,0 +1,58 @@
+{
+    "name": "Food mods",
+    "icon": "croptopia:blt",
+    "category": "patchouli:modpack_mods",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(bold)Aquaculture$()$(br)$(br)Aquaculture expands fishing to add a bunch of new fish. It also adds upgraded fishing rods with higher durability.$(br)$(br)It also adds a new material, $(bold)Neptunium$(), which when crafted into armor and tools, offers various benefits underwater."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "For more information, check the Aquaculture wiki: $(l:https://github.com/TeamMetallurgy/Aquaculture/wiki)Link"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(bold)Farmer's Delight$()$(br)$(br)Adds new ways to cook food, and a ton of new food to cook.$(br)$(br)It also offers a way to improve the default farmland, new crops, new tools, decorations, and many new blocks."
+        },
+        "",
+        {
+            "type": "patchouli:text",
+            "text": "$(bold)Pam's HarvestCraft 2$()$(br)$(br)Adds a bunch of new foods, like Epic Bacon."
+        },
+        "",
+        {
+            "type": "patchouli:text",
+            "text": "$(bold)Croptopia$()$(br)$(br)is much like Pam's HarvestCraft 2. It adds a lot of new foods."
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "croptopia:documentation",
+            "text": "The guidebook for Croptopia."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(bold)Cooking for Blockheads$()$(br)$(br)Adds a multi-block kitchen to cook food in unique ways."
+        },
+        {
+            "type": "patchouli:smelting",
+            "recipe": "cookingforblockheads:recipe_book",
+            "text": "If you want to know what you can cook in $(bold)Cooking for Blockheads$(), take a look at this book."
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "cookingforblockheads:no_filter_edition",
+            "text": "A variant of the recipe book that shows $(bold)all$() Cooking for Blockheads recipes."
+        },
+        "",
+        {
+            "type": "patchouli:crafting",
+            "recipe": "solcarrot:food_book",
+            "text": "Looking for new foods to make? Try taking a look inside the $(bold)Food Book$()."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "Another mod to be aware of is $(bold)Spice of Life$(). It doesn't add any food on its own, but will permanently increase your max health as you eat more and more $(bold)unique$() food (meaning you can't just cheese it by eating 5,000 steaks; it has to be unique recipes)."
+        }
+    ]
+}

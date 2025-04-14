@@ -1,0 +1,25 @@
+{
+    "name": "Some new recipes",
+    "icon": "everythingcopper:copper_helmet",
+    "category": "patchouli:modpack_misc",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "The $(bold)Everything is Copper$() mod adds copper tools & armor. You would craft them as you might expect.$(br)$(br)Some example recipes are to the right."
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "everythingcopper:copper_pickaxe",
+            "recipe2": "everythingcopper:copper_helmet"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "The $(bold)saddle$() and $(bold)name tag$() have recipes as well."
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "aether:aether_saddle",
+            "recipe2": "beginnerguide:craftable_name_tag"
+        }
+    ]
+}

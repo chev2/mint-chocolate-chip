@@ -1,0 +1,11 @@
+{
+    "name": "Building & decoration mods",
+    "icon": "minecraft:stone_bricks",
+    "category": "patchouli:modpack_mods",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "A quick summary of the building mods of this modpack (check their blocks/items using JEI):$(li)Chipped$(li)Handcrafted$(li)Comforts$(li)Everything is Copper$(li)Chimes$(li)Additional Lights$(li)Macaw's Lights and Lamps$(li)Rechiseled$(li)WaterFrames$(li)Amendments"
+        }
+    ]
+}

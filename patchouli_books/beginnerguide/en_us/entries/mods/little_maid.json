@@ -1,0 +1,16 @@
+{
+    "name": "Touhou Little Maid",
+    "icon": "touhou_little_maid:shrine",
+    "category": "patchouli:modpack_mods",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Touhou Little Maid is a mod that adds maids from Touhou. They can perform various tasks for you, such as cooking, cleaning, farming, fighting and more.$(br)$(br)You can also upgrade the maids' HP and damage by spending time with them, such as playing against them in chess."
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "touhou_little_maid:memorizable_gensokyo",
+            "text": "It's highly recommended to craft its guide book to learn mode about how the mod works."
+        }
+    ]
+}

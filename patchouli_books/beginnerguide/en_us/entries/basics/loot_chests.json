@@ -1,0 +1,15 @@
+{
+    "name": "3. About loot",
+    "icon": "lootr:lootr_chest",
+    "category": "patchouli:modpack_about",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "You might notice that when exploring structures and dungeons, there is no normal chests. Instead, there are chests with a silver or gold trim.$(br)$(br)These chests are loot chests, and they generate unique loot for $(italics)every player$()."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "This means you always get your own loot, and don't have to worry about opening empty chests!"
+        }
+    ]
+}

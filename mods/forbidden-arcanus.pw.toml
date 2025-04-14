@@ -1,0 +1,13 @@
+name = "Forbidden and Arcanus "
+filename = "forbidden_arcanus-1.21.1-2.5.15.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/MdlnLS7Q/versions/GWRHF5VL/forbidden_arcanus-1.21.1-2.5.15.jar"
+hash-format = "sha512"
+hash = "21bdd093f2e83ddd78508714ef9489a77f475eb30c9fcd0c08e87b1eb01ddfab87835616ede562fd9c64b3fc030b9ad4ce788a49d4992547e9fd00a282294a15"
+
+[update]
+[update.modrinth]
+mod-id = "MdlnLS7Q"
+version = "GWRHF5VL"

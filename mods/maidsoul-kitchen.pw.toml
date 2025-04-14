@@ -1,0 +1,13 @@
+name = "Maidsoul Kitchen"
+filename = "maidsoulkitchen-1.21.1-beta-v0.1.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Q5ZXy0QB/versions/2ciTwgeF/maidsoulkitchen-1.21.1-beta-v0.1.3.jar"
+hash-format = "sha512"
+hash = "67a975231ff18eebd99f9ba235740dbe1725066f759700e078380575ad8dabbe56dba61488d13095a190e978ab15f169c57e147bdccab819b4a993283f1378d0"
+
+[update]
+[update.modrinth]
+mod-id = "Q5ZXy0QB"
+version = "2ciTwgeF"

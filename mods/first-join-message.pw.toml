@@ -1,0 +1,13 @@
+name = "First Join Message"
+filename = "firstjoinmessage-1.21.1-3.7.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/Ppny3rjF/versions/TNvagCwa/firstjoinmessage-1.21.1-3.7.jar"
+hash-format = "sha512"
+hash = "b95d5661b26fa37b6bfd72bd95b0e15f0bda77870b3648b1a45342a6a89894164bd8ac6883087ea48c3892de96d0f244713bf636794a1b2b9fc68620765c670a"
+
+[update]
+[update.modrinth]
+mod-id = "Ppny3rjF"
+version = "TNvagCwa"

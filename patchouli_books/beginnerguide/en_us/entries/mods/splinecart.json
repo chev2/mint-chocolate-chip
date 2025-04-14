@@ -1,0 +1,29 @@
+{
+    "name": "Splinecart",
+    "icon": "splinecart:track",
+    "category": "patchouli:modpack_mods",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Splinecart is a mod that lets you build rollercoasters with curvy rails.$(br)$(br)Start by placing some track ties; these are nodes that the tracks will connect to. The arrow on the track ties indicate the direction the track will move.$(br)$(br)Then, right click a track piece on the starting node, and then the ending node."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "If you did it correctly, you should see a curvy track connecting the two track ties together.$(br)$(br)You can place a minecart on the track by placing it on a regular minecart rail, and pushing it onto the track."
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "splinecart:track_ties",
+            "recipe2": "splinecart:track"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "splinecart:chain_drive_track",
+            "recipe2": "splinecart:magnetic_track"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "The magnetic track's acceleration is controlled by the strength of a redstone signal."
+        }
+    ]
+}
