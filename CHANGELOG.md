@@ -1,3 +1,6 @@
+### 0.2.2
+- Force SmartBrainLib to be required by both client and server
+
 ### 0.2.1
 - Fixed Better Compatibility Checker having the wrong modpack version
 - Updated NeoForge (21.1.141 -> 21.1.147)
