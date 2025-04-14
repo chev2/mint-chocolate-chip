@@ -1,0 +1,13 @@
+name = "Mint Chocolate Chip"
+author = "Chev"
+version = "0.2.1"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "304789270f0c64489aa603bced5d380010953e637f6bdf3353802c5fcba13d48"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.147"
