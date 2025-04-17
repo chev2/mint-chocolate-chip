@@ -37,5 +37,22 @@
 			"darkenedOpacity": 1.0
 		}
 	},
-	"modifiers": []
+	"modifiers": [
+		{
+			"slotType": "necklace",
+			"amount": 2
+		},
+		{
+			"slotType": "ring",
+			"amount": 3
+		},
+		{
+			"slotType": "belt",
+			"amount": 1
+		},
+		{
+			"slotType": "charm",
+			"amount": 1
+		}
+	]
 }
