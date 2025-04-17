@@ -28,7 +28,7 @@ debugMode = false
 	# [Server] Whether to place every player in a single share group
 	# Disables /surveyor share and /surveyor unshare
 	# default: false
-	globalSharing = false
+	globalSharing = true
 	# How much terrain data to send to clients
 	# SERVER sends server-known data, GROUP sends group-known data, SOLO sends player-known data, NONE sends no data
 	# options: NONE, SOLO, GROUP, SERVER
@@ -52,7 +52,7 @@ debugMode = false
 	# When NONE, waypoint data will never be synced (e.g. for privacy)
 	# options: NONE, SOLO, GROUP, SERVER
 	# default: SOLO
-	waypoints = "SOLO"
+	waypoints = "GROUP"
 	# [Server] How much player position data to send to clients
 	# SERVER sends all players positions, GROUP sends just group players, SOLO sends nothing, NONE sends nothing
 	# options: NONE, SOLO, GROUP, SERVER
