@@ -6,7 +6,7 @@
 	// The format of the health string in the GUI. <health> will be replaced by the percentage of total health.
 	"followerHealthFormat": ": <health>%",
 	// If enabled, shows the follower's distance in blocks to the player in the GUI list.
-	"showFollowerDistance": false,
+	"showFollowerDistance": true,
 	// The format of the distance string in the GUI. <distance> will be replaced by distance in blocks.
 	"followerDistanceFormat": " (<distance> blocks)",
 	// The distance in blocks around the player where the mod checks for tamed, non-sitting followers to add to the list. A value of -1 disables this feature.
