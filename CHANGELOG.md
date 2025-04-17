@@ -1,3 +1,20 @@
+### 0.3.0
+- Added mod: Polymorph
+- Added mod: What Are They Up To (Watut)
+    - Added dependency: CoroUtil
+- Removed mods: Gravestones & Gravestones Curios API compat
+    - Had issues with armor disappearing upon death
+- Added mod: You're In Grave Danger
+- Lowered Distant Horizons multithreading resource usage to help address server lag
+- Added many more milestones to Spice of Life: Carrot Edition
+- Surveyor framework now uses global sharing (players can see each other, as well as each others' waypoints in Antique Atlas)
+- Follower distance now appears in the follower UI
+- Waystones changes:
+    - No longer costs XP to use
+    - Will teleport pets if teleporting between waystones in the same dimension
+    - Waystones spawn more frequently in villages
+    - Waystones spawn in the Aether
+
 ### 0.2.4
 - Force Almost Unified to be required by both client and server
 
