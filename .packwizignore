@@ -10,3 +10,8 @@
 
 # Exclude exported Modrinth modpacks
 /*.mrpack
+
+# Mod-specific
+/config/ars_nouveau/search_index/*
+/config/jei/world
+/config/chunky/tasks
