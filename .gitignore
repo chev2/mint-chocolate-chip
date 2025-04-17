@@ -6,5 +6,5 @@
 
 # Mod-specific
 /config/ars_nouveau/search_index/*
-/config/jei/world/local
+/config/jei/world
 /config/chunky/tasks
