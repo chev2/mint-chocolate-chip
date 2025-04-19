@@ -146,11 +146,11 @@ hash = "557cc1b6ba1369f5d2459054cc2b9e9f91c58b9cdecb0a3023a911b435b1a9c8"
 
 [[files]]
 file = "config/apotheosis/enchantments.cfg"
-hash = "c01da47821215f231f1ef85af6c6c89e2972439037522447f638d3a208f24bd6"
+hash = "8a2c915b44d7106c6af240a0c5100e98ec83b176ea76ea0f3af52980822bdd61"
 
 [[files]]
 file = "config/apotheosis/name_generation.cfg"
-hash = "d5b397e4cc61d6a14f6620ce79a9f1bd52ae8b77abbe6065351f88f82c40a655"
+hash = "fabdfc396643b54d24807f43550130742a08a97866e214022e067c60c73b4af3"
 
 [[files]]
 file = "config/apothic_spawners.cfg"
@@ -170,7 +170,7 @@ hash = "05461f25ad24b7f637c78d63801b6fc082655c01d12002248b5b5a876837b7dd"
 
 [[files]]
 file = "config/ars_elemental-common.toml"
-hash = "a664075b990938c89ea0cec1037da5c89fc26b9ae356ee88cd00e0164549230f"
+hash = "335b7aa8c2ae29b9f57399b03293436eed451e06646d03834fc06a1d6a5635bd"
 
 [[files]]
 file = "config/ars_elemental/glyph_aerial_filter.toml"
@@ -1078,11 +1078,11 @@ hash = "37cbf107dc0ab8baebf64bb099bfc8c6ec3f74e0559f7738dea46847dc6ddabd"
 
 [[files]]
 file = "config/balm-common.toml"
-hash = "9d0d2436c069e42e908428306af4ba795165f99a370a62ed87580ca01c98b28c"
+hash = "6a46437b568805ea68db5424ab285c36a154c8e55cb2aa2c57115170399405ca"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "47583004c690a6d2e7ab12d84c4085b07b3c6ed52f530599fb92c17171994d0d"
+hash = "d2c452bace9a8cc19e11b5015d1cf4fed0f0cc6e63a64cc2047cb80e49bde669"
 
 [[files]]
 file = "config/betterbeaconplacement.json5"
@@ -1138,7 +1138,7 @@ hash = "8094cb94ddd1949204255bac9256a6b62d4de06ec0fe9bb7f5cd60293ea9b28a"
 
 [[files]]
 file = "config/c2me.toml"
-hash = "3497278785f68756adc099b9b9fece2fe64a8fc45a98ddcdf616c6aab3e4fb3b"
+hash = "521adaf2b9f7da57d54bf3364621e748f69be8a274cc532980beb2c5cda098c0"
 
 [[files]]
 file = "config/ccl.cfg"
@@ -1198,7 +1198,7 @@ hash = "00267a602028cbb037dcb0b5f803db31bed284235ca9c1ea189ad4179311a2f4"
 
 [[files]]
 file = "config/cookingforblockheads-common.toml"
-hash = "742fb42d7a6f212ea24909d5d02702b13ac6cbefbb33668d73d6840a189496fb"
+hash = "3d6f57390c5b978d8bf11210bf91c48833fcec7b7a8123ab0a190e54ddcce791"
 
 [[files]]
 file = "config/corn_delight-common.toml"
@@ -1274,11 +1274,19 @@ hash = "d49772ed11b4bec98a7c5f11dd5d39a1194545a84d342d7cc6d724b9f2dcce97"
 
 [[files]]
 file = "config/doubledoors.json5"
-hash = "d4407793e6f0450c0b22eb5099f297e66ec947b666e8b5b1b7a15c87c1818cca"
+hash = "80e6b7b68d075f547b85c1a53037318c7b66cd47cecb5a8e137d0103d7b9dd2a"
 
 [[files]]
 file = "config/draggable_lists.json5"
 hash = "b9f4428f21aaacf95acf58e97de4b990c3e9b0bcf48c0b54c318b2b50e347b92"
+
+[[files]]
+file = "config/dummmmmmy-client.toml"
+hash = "94cb4d8e98cfee3e5d659b1df8487f865b03d988cc7d333f787d096750963578"
+
+[[files]]
+file = "config/dummmmmmy-common.toml"
+hash = "be81c20c752e33060eef2c8e8fe841cbf76863751fc48e1b0f3158eec4cb7c0c"
 
 [[files]]
 file = "config/durabilitytooltip-common.toml"
@@ -1290,7 +1298,7 @@ hash = "1bedbb10dfb6b66bcb3a38954962eb504560d01c23ff21d2485d4e188713754d"
 
 [[files]]
 file = "config/eccentrictome-common.toml"
-hash = "8e8a9ffb2ba842f3e4885150cedf3ad378c23367099424787af6d82493245eb4"
+hash = "000b539b842f057f30f496a481db4edf48b00068041e3ae5fc85c64a60ccaf55"
 
 [[files]]
 file = "config/edibles.json5"
@@ -1389,6 +1397,14 @@ file = "config/forbidden_arcanus-common.toml"
 hash = "5dbddf64f2718a849bef3f76b16f3a6972ca2bacec7f3e7707f210cf73d35297"
 
 [[files]]
+file = "config/framedblocks-client.toml"
+hash = "12b73219d199759e5d4fe0305497ae64abec2885ed1f0240c57f564e58525eae"
+
+[[files]]
+file = "config/framedblocks-server.toml"
+hash = "60a758a55730a593a2e225989ab1123845bdccea73a7528c2ae3f445a9758e0e"
+
+[[files]]
 file = "config/friendsandfoes.json"
 hash = "ee3c57121829b033819d410d1d684b66865d165cee38ce62dbb36e4c4639d4b2"
 
@@ -1461,6 +1477,10 @@ file = "config/iris.properties"
 hash = "ed0a84caacf3953b153eb822872e7467acc6255c92b188f99ed81c3fa5fcca4c"
 
 [[files]]
+file = "config/ironfurnaces-common.toml"
+hash = "9b8cd662ffbbc93ec6daa406edf006e411623f11471d16c8d906a0a3903b318e"
+
+[[files]]
 file = "config/irons_spellbooks-client.toml"
 hash = "48ee30b7dd437917ecd7fb4451bcca34a886e2cedd26897113e195d80427b40e"
 
@@ -1482,11 +1502,11 @@ hash = "63ec35aaa27bc63e064407bf289bedbc0d7548a4d29aeebe4ace83028dcf61c5"
 
 [[files]]
 file = "config/jade/plugins.json"
-hash = "4ed91cac330c671e9ece2fbcd4a6c63f6e72f5c8bf10376f2d2dd6c297252d47"
+hash = "f61aa3610a706b3aa3580eb99596f9b7377ad8510ebc1627a1569081538e2ba6"
 
 [[files]]
 file = "config/jade/sort-order.json"
-hash = "9cd356fe368e8b7cf5ba16dbada5f616d2e7c57d942a5041515cff262b34897d"
+hash = "0f430ef173940699dcc7a0c1cf66f477fc2b866c7cad33faab265052eb8834fe"
 
 [[files]]
 file = "config/jei-server.toml"
@@ -1498,7 +1518,7 @@ hash = "b4174dc6e985aa90be5002c14e94b956d8d586683c44b7b6710c44d08fb13648"
 
 [[files]]
 file = "config/jei/ingredient-list-mod-sort-order.ini"
-hash = "91ce20255ec8c00013713bea88fb57f945eab27c739bc6896c0a7c8f11a660d1"
+hash = "d4c67ab0cc48a5a3811b1ec8bf209e64927e1181c7e54fa753999944bedfdd31"
 
 [[files]]
 file = "config/jei/ingredient-list-type-sort-order.ini"
@@ -1522,7 +1542,7 @@ hash = "4eb3a3eb280558bdd2665fb4792d32551cb6dddc468776e66afc1c3ea981781e"
 
 [[files]]
 file = "config/jei/recipe-category-sort-order.ini"
-hash = "59d00f68df1675505f0ab9fa295d0205039d3afaa21d580d61447585adca8f76"
+hash = "bed9728ab40c99db9420c8e9db8f14c0e3fa54c6a00ae7f8a5383f371ea0dcc0"
 
 [[files]]
 file = "config/justzoom/config.txt"
@@ -1997,11 +2017,11 @@ hash = "5574e30aba1c43dbda734f1d3fed6a33b4cc053b09c6ace4a6036b57072e1677"
 
 [[files]]
 file = "config/waystones-common.toml"
-hash = "0f6657b068cf1d8595794a4500fbfb7ae755d9df5ad4f863e5c8535b2c310202"
+hash = "7daf369ae6d8e511cf1ae0697c9190cc7ad173302e7f7c6fd2edc0e771117565"
 
 [[files]]
 file = "config/yigd.json"
-hash = "d91a1f1c777a6646d6a38cf45abdce54bcf6f7ef63627d9e0595b127aa76448e"
+hash = "9bdb5d7ac13183691792c2bdf2b03744737b5a66e385e014146306313189bf0c"
 
 [[files]]
 file = "defaultconfigs/ballistix.txt"
@@ -2564,6 +2584,11 @@ hash = "907626f3224cff49b9c2754f9c182062c3d5ae8a3538df382d46e1042b97d056"
 metafile = true
 
 [[files]]
+file = "mods/framedblocks.pw.toml"
+hash = "5c01c61b237056629eadc046f6ad43312fb86d55e012d4c60ed64bda9c939ddc"
+metafile = true
+
+[[files]]
 file = "mods/friends-and-foes-beekeeper-hut-forge.pw.toml"
 hash = "d34a76aad21b78c728e11faf474aff2a59b8fa7c603756efb7bbd40677551536"
 metafile = true
@@ -2659,6 +2684,11 @@ hash = "c3c06a4839ecfd4717686f7394396a4fc66b7a2e8eabbdd51f23ab2a1099cc1e"
 metafile = true
 
 [[files]]
+file = "mods/iron-furnaces.pw.toml"
+hash = "b903fc0492b705158298073966c1564d7a92cf4730559b4c5e79af96260ef137"
+metafile = true
+
+[[files]]
 file = "mods/irons-spells-n-spellbooks.pw.toml"
 hash = "68da07a236aba88b1e5ba10318320e7f2ae3e715c30dc452fdca9d621df29b20"
 metafile = true
@@ -2751,6 +2781,11 @@ metafile = true
 [[files]]
 file = "mods/mmlib.pw.toml"
 hash = "59f033615895cd019f9fb168fa93590422c5050274630a8faec46460979a5156"
+metafile = true
+
+[[files]]
+file = "mods/mmmmmmmmmmmm.pw.toml"
+hash = "f3f1c04ad9b39d671d65473ed8048f168ed9d535e9b9ab5c76c2a0f6211c6228"
 metafile = true
 
 [[files]]
@@ -3094,6 +3129,11 @@ hash = "8fc5de8af644504673af794edc678ffa7b508c39ad30f69736744b282d55ad50"
 metafile = true
 
 [[files]]
+file = "mods/splinecart.pw.toml"
+hash = "66f3e982c29d4204afc8593f050f3fe3478f286b639e1404bbdb64bda3ad0406"
+metafile = true
+
+[[files]]
 file = "mods/sticky-enchanting-lapis.pw.toml"
 hash = "0a521500b6c149af89fdd33e591388b88625809ad14ee91f420875eeba216979"
 metafile = true
@@ -3290,7 +3330,7 @@ hash = "2c3a085910eb28bd2ff1125cef2f2a91be388e318097c702d262caeee61ac4ad"
 
 [[files]]
 file = "patchouli_books/beginnerguide/en_us/entries/mods/building_mods.json"
-hash = "c872a7f00d4ca77a01d0555428cf7f8bccee79a06a8a8a2f0465a4d77dd4507d"
+hash = "f0821f2251aaf2f9d3c5b1a96a06174f29aa77d0407269a74a139aa586396c93"
 
 [[files]]
 file = "patchouli_books/beginnerguide/en_us/entries/mods/crafting_on_a_stick.json"

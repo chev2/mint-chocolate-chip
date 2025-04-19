@@ -1,3 +1,12 @@
+### 0.4.0
+- Added mods:
+    - Framed Blocks
+    - Iron Furnaces
+    - MmmMmmMmmMmm
+    - Splinecart
+- The Double Doors mod no longer affects trapdoors
+- Added more books to the Eccentric Tome whitelist
+
 ### 0.3.0
 - Added mod: Polymorph
 - Added mod: What Are They Up To (Watut)
