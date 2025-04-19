@@ -1,3 +1,22 @@
+### 0.5.0
+- Updated mods:
+    - Apotheosis (8.2.1 -> 8.3.1)
+    - Apothic Attributes (2.7.0 -> 2.8.0)
+    - Apothic Enchanting (1.3.2 -> 1.4.0)
+    - Apothic Spawners (1.2.1 -> 1.3.0)
+    - C2ME (0.3.0+alpha.0.61 -> 0.3.0+alpha.0.62)
+    - Chat Heads (0.13.13 -> 0.13.17)
+    - Double Doors (6.2 -> 7.0)
+    - Iron's Spells n Spellbooks (3.10.1 -> 3.11.0)
+    - Perception (0.1.2.1 -> 0.1.3)
+    - Placebo (9.7.1 -> 9.8.0)
+    - Simple Backups (4.0.10 -> 4.0.12)
+    - Simple Voice Chat (2.5.29 -> 2.5.30)
+    - Sophisticated Backpacks (3.24.5.1219 -> 1-3.24.9.1228)
+    - Sophisticated Core (1.3.24.947 -> 1.3.27.951)
+    - Sophisticated Storage (1.4.17.1113 -> 1.4.21.1123)
+    - Touhou Little Maid (1.2.1 -> 1.2.2-hotfix)
+
 ### 0.4.0
 - Added mods:
     - Framed Blocks

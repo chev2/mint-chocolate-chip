@@ -134,11 +134,11 @@ hash = "be01498a927bc83fd87d4cae5021f3ed9191bc951e4000070e85c16062c45760"
 
 [[files]]
 file = "config/apotheosis/apotheosis.cfg"
-hash = "ffee9947b3501c65658fbe00cdc43256da9adbdaa2431947afaba83ae5a7699a"
+hash = "f7b0c78b4440353a5587b481a907055bcecdb1066d1da9f18046f65615ffc8b1"
 
 [[files]]
 file = "config/apotheosis/apothic_attributes.cfg"
-hash = "758e5ad41c61ad0fb43fad665ee16b7fa685284ff396c95caa8562e2a819fa0d"
+hash = "5a1bc794cdc9c20c8a179c402473cf735073d48358fb364e6ca7f7cac843ac56"
 
 [[files]]
 file = "config/apotheosis/apothic_enchanting.cfg"
@@ -1082,7 +1082,7 @@ hash = "6a46437b568805ea68db5424ab285c36a154c8e55cb2aa2c57115170399405ca"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "d2c452bace9a8cc19e11b5015d1cf4fed0f0cc6e63a64cc2047cb80e49bde669"
+hash = "0ed4f9549e84975d622609aaa03a904c94457555ea925afb35cfe4ddb7694eb2"
 
 [[files]]
 file = "config/betterbeaconplacement.json5"
@@ -1138,7 +1138,7 @@ hash = "8094cb94ddd1949204255bac9256a6b62d4de06ec0fe9bb7f5cd60293ea9b28a"
 
 [[files]]
 file = "config/c2me.toml"
-hash = "521adaf2b9f7da57d54bf3364621e748f69be8a274cc532980beb2c5cda098c0"
+hash = "f1e21a931dc9564f05bcd5baba8355a611ec6fd127433947ea629bca1ef99b3e"
 
 [[files]]
 file = "config/ccl.cfg"
@@ -1781,7 +1781,7 @@ hash = "6b639bdf78022af725141301e5e0dd988ef5e6a7e541b4407db5ef52415e311c"
 
 [[files]]
 file = "config/perception/modules/shake.yaml"
-hash = "7268c4e455ebda2a303f2e0333ee8f8d349e1991a1852788f97d9d96c8bd6023"
+hash = "1529c617af4872984868e2c1824917eb2cde0227f0cf89247280f75b8620410d"
 
 [[files]]
 file = "config/perception/modules/trail.yaml"
@@ -1833,7 +1833,7 @@ hash = "f4083fb678ef3a48ef4ba04f6c6c360d35c95fa193ec1aad1f3a22f994eaf3ba"
 
 [[files]]
 file = "config/simplebackups-common.toml"
-hash = "80fbcbe9da02e063355cb49b65e09a3c7299b8bea53eb9a4f28a91c906a3959f"
+hash = "978bd3fc72a2118b2454543f6a5f8e4a375bce4090514160540b11706d8682bf"
 
 [[files]]
 file = "config/simplebackups-server.toml"
@@ -1941,7 +1941,7 @@ hash = "499d188162ddcf7fcf450cdcdc96bd41ac582501ecad5ed4a74dd9ed6b01990a"
 
 [[files]]
 file = "config/touhou_little_maid-common.toml"
-hash = "f293c06ae8538b410d4dadb8f6754d95ffe82425d3bf59c3e6970d15888a4418"
+hash = "1814820b019c275aa469cc04d3c9c92fa2da3bf72bef7ef41a320099abe831e7"
 
 [[files]]
 file = "config/touhou_little_maid-server.toml"
@@ -1949,7 +1949,7 @@ hash = "0d021cdc75593ec2cda54f285d3e33e3b15a0d648db171d52efcd49bca8dcfd8"
 
 [[files]]
 file = "config/touhou_little_maid/available_sites.yml"
-hash = "1072e71289e771c8bfa2ea5c41ffed74a773661cdc748ad05f291a45a97ae7e3"
+hash = "825a80c52d9c12aa85e107dc72b07de447f2187c99081aea4e11eb0deeacde93"
 
 [[files]]
 file = "config/touhou_little_maid/info.json"
@@ -1977,11 +1977,11 @@ hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
 [[files]]
 file = "config/voicechat/voicechat-client.properties"
-hash = "a29ad36054c625a9a64488069cfc03e6aa868cae5984468408c1a26bac01de95"
+hash = "ae5ce9f675c4e16d4162d9fccce099af8f3d9fdd1a7e675731f152e73b9dac78"
 
 [[files]]
 file = "config/voicechat/voicechat-server.properties"
-hash = "65636289bfca24147de0e9ea06f18c9247c0a1d67db90c6afcad9d09c57ab5e5"
+hash = "5145c460c1a32442588f61b6d1fc4f9b1f9b03a73883bbfbf588c276859705b4"
 
 [[files]]
 file = "config/voicechat/voicechat-volumes.properties"
@@ -2100,22 +2100,22 @@ metafile = true
 
 [[files]]
 file = "mods/apotheosis.pw.toml"
-hash = "eb8612ce21dd08ab5a673fcc33003837c4ee9aaf033aae48d979b739e5ca4fdd"
+hash = "4013533b1badbe2f2f66f2ef371437f9839d68994526da6b356e2f71fe64630d"
 metafile = true
 
 [[files]]
 file = "mods/apothic-attributes.pw.toml"
-hash = "87e280f47e37b3ca627fa0ded5113cbdab03c57a4bb78a3647729fd90500a405"
+hash = "24e36f10973754393c21fc0511864d7f41f970ea317afcbe1852a4bdd1bf5ddc"
 metafile = true
 
 [[files]]
 file = "mods/apothic-enchanting.pw.toml"
-hash = "f979572c1e0b3b50c37fd99430cc2f53cd6b73045927a1ca6cc378991c985e6d"
+hash = "fa6548a3365d00453ebefb5f1f8b7f2fec9567eb7765e5914e767d2c8b692f91"
 metafile = true
 
 [[files]]
 file = "mods/apothic-spawners.pw.toml"
-hash = "3f51958fd157c5701142d66dab494d069ae2cb4628368e2e5faf42cdf726f42c"
+hash = "ca299f47588fee2bc81626e04146efa3f188da6f9e4b11bbac04502b9cdbc9dd"
 metafile = true
 
 [[files]]
@@ -2245,7 +2245,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-neoforge.pw.toml"
-hash = "3fa156604ef14ccb1e00b71fe7bbbbe1bae07ab9c0d702d78c111b077756b2c4"
+hash = "e6df58ecd21087031aef60a38c696a6ee1679d0d48227e0c26fbe2b41701b053"
 metafile = true
 
 [[files]]
@@ -2260,7 +2260,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "00a6a59105f7bc307cf04c1dfb129b300c29a4cb550a5825cacdb54dbc598c68"
+hash = "e806e6c5e09a74176fadf4d241ba5cb4915250011f29a47ce6a0039784e9de17"
 metafile = true
 
 [[files]]
@@ -2415,7 +2415,7 @@ metafile = true
 
 [[files]]
 file = "mods/double-doors.pw.toml"
-hash = "a57f98e39d47d8ad4bf5769b2d905048155fb71034579095f4ebd99182def40a"
+hash = "3b4237230c3529e8d4bb17755b68c4283e4f6e178e183a20e9256a474d56e832"
 metafile = true
 
 [[files]]
@@ -2690,7 +2690,7 @@ metafile = true
 
 [[files]]
 file = "mods/irons-spells-n-spellbooks.pw.toml"
-hash = "68da07a236aba88b1e5ba10318320e7f2ae3e715c30dc452fdca9d621df29b20"
+hash = "5d7b8339ae3f6195887c1b81d1716fa98759945a114a6dbaaff096a6f385dfaf"
 metafile = true
 
 [[files]]
@@ -2940,7 +2940,7 @@ metafile = true
 
 [[files]]
 file = "mods/perception.pw.toml"
-hash = "e55c8cf19910bc943b6adec9c4dc69a24dce0be9759077d6143426b5a3e73c04"
+hash = "7705db8b55b9c27a20c10faeb92203454686905d5ab5c183ad8913892e0fea9c"
 metafile = true
 
 [[files]]
@@ -2955,7 +2955,7 @@ metafile = true
 
 [[files]]
 file = "mods/placebo.pw.toml"
-hash = "0569bfe0d8f1637f9a45d07bfc540303700b815a6f1cc3ce85a1d5fbc3a750f7"
+hash = "f828c12dbcb01967ae61cb5ae2c4c347900d3851e7d688263d5d0fbb72288706"
 metafile = true
 
 [[files]]
@@ -3060,12 +3060,12 @@ metafile = true
 
 [[files]]
 file = "mods/simple-backups.pw.toml"
-hash = "351623bbb56fc3d229ed2ca0059d98f6ef9c69ad579ea1f0db7ef735955d0aff"
+hash = "c4b37bf44bedfc76ed596255e4a1c3e0a8ed2d2d530ef52b8a1581d92945d5f2"
 metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "3915b768d89ec43e7b4b250a361dd2c8326b0d56c7fe73656ee955653ee573f9"
+hash = "2237772650b4c2efc5b436a7468f92a548cee8d8f8fe648340a3a1d30544d903"
 metafile = true
 
 [[files]]
@@ -3110,17 +3110,17 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
-hash = "7677bdb5b22027e463e6c7957fd037d6d3558f25528f166591ca11f1c8980d8b"
+hash = "554254fbc9d95b93cb5f5677e42d8728f6a501de895e794a5909a995618ef2af"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "185c9e14a2f050062dbc7adba0190810ad3cb3aa9c62088ea8544ecadcc103b4"
+hash = "fbac9663eb9bbd453339ebdb5e228b3dcfe1ea6e27ac49735271ffac9c2a1f60"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-storage.pw.toml"
-hash = "e194df707a7cdf520a118597bfb1b7b8579444c4ee8fea41daed745ae65d6129"
+hash = "3f5eb9466e9cceb7727c0a9cc9d7b37b8f3504516baf7cd234a5dd53f38be727"
 metafile = true
 
 [[files]]
@@ -3175,7 +3175,7 @@ metafile = true
 
 [[files]]
 file = "mods/touhou-little-maid.pw.toml"
-hash = "44d5c54bfaa9ebf64a7c525b12116c04a92d5c65c3b438e0aeafb7aa6f0b86d0"
+hash = "e5b1adaa0d48d374a9c569670071fc0a4aa5f983ea6468bf019c58c0a7b719e9"
 metafile = true
 
 [[files]]
