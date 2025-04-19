@@ -1,3 +1,6 @@
+### 0.5.1
+- Updated Collective (8.1 -> 8.3)
+
 ### 0.5.0
 - Updated mods:
     - Apotheosis (8.2.1 -> 8.3.1)
