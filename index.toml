@@ -1082,7 +1082,7 @@ hash = "6a46437b568805ea68db5424ab285c36a154c8e55cb2aa2c57115170399405ca"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "5ddde5ca2a9f4df73c2ed001b75848a53600ac198f4bea319f7bcd057f76538c"
+hash = "5a8a89772321d0c1d1d716bc5719ded7728430fabb683cf4c7752ac43505554d"
 
 [[files]]
 file = "config/betterbeaconplacement.json5"
@@ -1833,7 +1833,7 @@ hash = "f4083fb678ef3a48ef4ba04f6c6c360d35c95fa193ec1aad1f3a22f994eaf3ba"
 
 [[files]]
 file = "config/simplebackups-common.toml"
-hash = "978bd3fc72a2118b2454543f6a5f8e4a375bce4090514160540b11706d8682bf"
+hash = "6a617cab1020b0f5ecf67cc7529fd5d008d71cd52b45a7692b738f5f85178f6c"
 
 [[files]]
 file = "config/simplebackups-server.toml"
@@ -1941,7 +1941,7 @@ hash = "499d188162ddcf7fcf450cdcdc96bd41ac582501ecad5ed4a74dd9ed6b01990a"
 
 [[files]]
 file = "config/touhou_little_maid-common.toml"
-hash = "1814820b019c275aa469cc04d3c9c92fa2da3bf72bef7ef41a320099abe831e7"
+hash = "2380d892df3ad3466c5965c241c1d4a54f7148b0b10630ae81f58dc6008519d7"
 
 [[files]]
 file = "config/touhou_little_maid-server.toml"
@@ -2581,11 +2581,6 @@ metafile = true
 [[files]]
 file = "mods/fragmentum.pw.toml"
 hash = "907626f3224cff49b9c2754f9c182062c3d5ae8a3538df382d46e1042b97d056"
-metafile = true
-
-[[files]]
-file = "mods/framedblocks.pw.toml"
-hash = "5c01c61b237056629eadc046f6ad43312fb86d55e012d4c60ed64bda9c939ddc"
 metafile = true
 
 [[files]]

@@ -1,3 +1,8 @@
+### 0.6.0
+- Removed FramedBlocks due to massive incompatibility with Antique Atlas (indefinite server crash)
+- Chair models can now be changed in Touhou Little Maid
+- Reduced SimpleBackups number of backups to retain from 5 to 2 (for storage capacity reasons)
+
 ### 0.5.1
 - Updated Collective (8.1 -> 8.3)
 
