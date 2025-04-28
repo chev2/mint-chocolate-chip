@@ -87,7 +87,7 @@
 
 [chair]
 	#Chair can switch models freely
-	ChairChangeModel = false
+	ChairChangeModel = true
 	#Chair can be destroyed by anyone
 	ChairCanDestroyedByAnyone = true
 
