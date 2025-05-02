@@ -1,3 +1,11 @@
+### 0.7.0
+- Whenever the server does a backup, it's announced to all players.
+- Added mods:
+    - Dramatic Doors
+    - YDM's Weapon Master
+    - Pipez
+    - Immersive Optimization (serverside only)
+
 ### 0.6.0
 - Removed FramedBlocks due to massive incompatibility with Antique Atlas (indefinite server crash)
 - Chair models can now be changed in Touhou Little Maid

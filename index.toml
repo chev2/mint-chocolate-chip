@@ -1082,7 +1082,7 @@ hash = "6a46437b568805ea68db5424ab285c36a154c8e55cb2aa2c57115170399405ca"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "5a8a89772321d0c1d1d716bc5719ded7728430fabb683cf4c7752ac43505554d"
+hash = "0a23f5aa259c2a7a1848e0e4b4c341e0f831c5f3923a209edd18176a89e6a5fc"
 
 [[files]]
 file = "config/betterbeaconplacement.json5"
@@ -1281,6 +1281,10 @@ file = "config/draggable_lists.json5"
 hash = "b9f4428f21aaacf95acf58e97de4b990c3e9b0bcf48c0b54c318b2b50e347b92"
 
 [[files]]
+file = "config/dramaticdoors-startup.toml"
+hash = "ee4c4f849b571ddce8328359c809d74fe83b341607a10be55d0faa3fb90289b4"
+
+[[files]]
 file = "config/dummmmmmy-client.toml"
 hash = "94cb4d8e98cfee3e5d659b1df8487f865b03d988cc7d333f787d096750963578"
 
@@ -1453,6 +1457,10 @@ file = "config/immediatelyfast.json"
 hash = "722b612b9b0688a7d5881c5c12182df882bb089f07caf098eb6654d5e6a95b15"
 
 [[files]]
+file = "config/immersive_optimization.json"
+hash = "12a68cd1a23d898507e7b3aa0f036c081d6433b9c1199d17f43fefc2360d3c4e"
+
+[[files]]
 file = "config/immersive_portals.json"
 hash = "d67360f11c2e7154b99e09669d42b28d21fdba9435d1134b5790a70ea674d018"
 
@@ -1486,7 +1494,7 @@ hash = "48ee30b7dd437917ecd7fb4451bcca34a886e2cedd26897113e195d80427b40e"
 
 [[files]]
 file = "config/irons_spellbooks-server.toml"
-hash = "9a7aa57fe568a7485f1e6ad524ebbf96152a908d1c104a9afd8e32a179efa331"
+hash = "5765f8bb0a83324e4b02cc930818f9ac03dfe9027678552f0a1f72d548011d68"
 
 [[files]]
 file = "config/jade/hide-blocks.json"
@@ -1502,11 +1510,11 @@ hash = "63ec35aaa27bc63e064407bf289bedbc0d7548a4d29aeebe4ace83028dcf61c5"
 
 [[files]]
 file = "config/jade/plugins.json"
-hash = "f61aa3610a706b3aa3580eb99596f9b7377ad8510ebc1627a1569081538e2ba6"
+hash = "1c20af8897764a38a02abcc645ae8b53c904ef799e16a02d7d05a3853fedf35d"
 
 [[files]]
 file = "config/jade/sort-order.json"
-hash = "0f430ef173940699dcc7a0c1cf66f477fc2b866c7cad33faab265052eb8834fe"
+hash = "a3c014d5d329fd1471e6bafe78d7cc70331bd2a205885cf45af7a6a2b8b03a20"
 
 [[files]]
 file = "config/jei-server.toml"
@@ -1518,7 +1526,7 @@ hash = "b4174dc6e985aa90be5002c14e94b956d8d586683c44b7b6710c44d08fb13648"
 
 [[files]]
 file = "config/jei/ingredient-list-mod-sort-order.ini"
-hash = "d4c67ab0cc48a5a3811b1ec8bf209e64927e1181c7e54fa753999944bedfdd31"
+hash = "3b7364ac7be300c993893abf3734a2033b6d6990d161115f02ca628f9aa8a36d"
 
 [[files]]
 file = "config/jei/ingredient-list-type-sort-order.ini"
@@ -1542,7 +1550,7 @@ hash = "4eb3a3eb280558bdd2665fb4792d32551cb6dddc468776e66afc1c3ea981781e"
 
 [[files]]
 file = "config/jei/recipe-category-sort-order.ini"
-hash = "bed9728ab40c99db9420c8e9db8f14c0e3fa54c6a00ae7f8a5383f371ea0dcc0"
+hash = "8f15bf544d686d88d1b0f1665c5ea1e09c8d9c324274b3e88ac075be589237fe"
 
 [[files]]
 file = "config/justzoom/config.txt"
@@ -1788,6 +1796,10 @@ file = "config/perception/modules/trail.yaml"
 hash = "471cf93d9bc1a0b03b425eadd939883a4b5adfa276373e12c70f651e83b7570f"
 
 [[files]]
+file = "config/pipez-server.toml"
+hash = "d6975c7ce7394979f1870f853ef0b6cbd8a14e37a6f7009b31eb2845a95d4ef7"
+
+[[files]]
 file = "config/placebo.cfg"
 hash = "6bbc71c6dc18b1ba4952e1bc54ed2b98c3a90f04cec4257ec3f7566cdf0c0e2a"
 
@@ -1833,11 +1845,11 @@ hash = "f4083fb678ef3a48ef4ba04f6c6c360d35c95fa193ec1aad1f3a22f994eaf3ba"
 
 [[files]]
 file = "config/simplebackups-common.toml"
-hash = "6a617cab1020b0f5ecf67cc7529fd5d008d71cd52b45a7692b738f5f85178f6c"
+hash = "705fe70201397ae1e048ce7b6946e8fd022d0a0be888659a09137e376dd6eb6f"
 
 [[files]]
 file = "config/simplebackups-server.toml"
-hash = "bef4d3a00c4592215316b65fea55b65ffba26cbf64672358016cf9841ffbd49e"
+hash = "bf73f138a476278c415bacc627026a81ddf7ebb4cb8e2613dc3bb2692c327922"
 
 [[files]]
 file = "config/sit-server.toml"
@@ -2018,6 +2030,10 @@ hash = "5574e30aba1c43dbda734f1d3fed6a33b4cc053b09c6ace4a6036b57072e1677"
 [[files]]
 file = "config/waystones-common.toml"
 hash = "7daf369ae6d8e511cf1ae0697c9190cc7ad173302e7f7c6fd2edc0e771117565"
+
+[[files]]
+file = "config/weaponmaster_ydm-common.toml"
+hash = "c7255423ebdb38712ccbeed269ed96525f70233c2bf5b9674483335e9fb76058"
 
 [[files]]
 file = "config/yigd.json"
@@ -2424,6 +2440,11 @@ hash = "50de1919e6cc3104a4a2557b0644c15f5a56722cf76a19b194ec6ecf61bcae13"
 metafile = true
 
 [[files]]
+file = "mods/dramatic-doors.pw.toml"
+hash = "7b9204de0626ccbcb91201c16427cf5bc70e5990e35fe553d4709794f3b21776"
+metafile = true
+
+[[files]]
 file = "mods/drink-beer-refill.pw.toml"
 hash = "7c73027a454377fc3120b432373bf513400ec6b88862b1c2b117d454f39b1a53"
 metafile = true
@@ -2661,6 +2682,11 @@ metafile = true
 [[files]]
 file = "mods/immersive-lanterns.pw.toml"
 hash = "0c9eb7002bd08576fb9b666cfaa103098eaf1480fd553ba3471b9568ac145e37"
+metafile = true
+
+[[files]]
+file = "mods/immersive-optimization.pw.toml"
+hash = "52e8a87eed2e9535687d341fae9e0be2fbff87789df7de9106395353b3eb342b"
 metafile = true
 
 [[files]]
@@ -2944,6 +2970,11 @@ hash = "29b39eea22c3467b79f0db2137400b21cd83767207ad7a463e313e61e31a5954"
 metafile = true
 
 [[files]]
+file = "mods/pipez.pw.toml"
+hash = "8e1d84866fb9eb86f141cee1b9fd2f1a1850f0840aa7c4b7a2f0220eb0424417"
+metafile = true
+
+[[files]]
 file = "mods/placeable-blaze-rods.pw.toml"
 hash = "60e4bf3f80ad8d5f3571ea3331a7344912e89c0fcebf0a01ad37fb48d1c81322"
 metafile = true
@@ -3216,6 +3247,11 @@ metafile = true
 [[files]]
 file = "mods/waystones.pw.toml"
 hash = "3d888e92caa63fa0937f5643e59bf5497fddbaa7ccd665279258bea96c1ba19d"
+metafile = true
+
+[[files]]
+file = "mods/weaponmaster.pw.toml"
+hash = "6910872a2662cdc05acd0c3fb435855fe171c69629b68b2e72f69695e2428d4b"
 metafile = true
 
 [[files]]
