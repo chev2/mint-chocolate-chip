@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/AMWPlushies-Server.toml"
+hash = "ae530945a1ba7c0a30773d43e50486c873b881a9869bfb25dedfe6874303dde1"
+
+[[files]]
 file = "config/CoroUtil/General.toml"
 hash = "6003299fd97cb6b383ca3df88a2a676c565585799b1e14bb2987617ee189c7c2"
 
@@ -1082,7 +1086,7 @@ hash = "6a46437b568805ea68db5424ab285c36a154c8e55cb2aa2c57115170399405ca"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "0a23f5aa259c2a7a1848e0e4b4c341e0f831c5f3923a209edd18176a89e6a5fc"
+hash = "b0d7b54613f1811b6cc86ebb6256bb04404919a577c86764a47e5c4dd17890d2"
 
 [[files]]
 file = "config/betterbeaconplacement.json5"
@@ -1411,6 +1415,10 @@ hash = "60a758a55730a593a2e225989ab1123845bdccea73a7528c2ae3f445a9758e0e"
 [[files]]
 file = "config/friendsandfoes.json"
 hash = "ee3c57121829b033819d410d1d684b66865d165cee38ce62dbb36e4c4639d4b2"
+
+[[files]]
+file = "config/furnitury-common.toml"
+hash = "d640c77b9cbb56c6ca4bd3bf4194ad5fa6dd3572cd22934e29c547d9d8942632"
 
 [[files]]
 file = "config/gravestone-client.toml"
@@ -1796,6 +1804,10 @@ file = "config/perception/modules/trail.yaml"
 hash = "471cf93d9bc1a0b03b425eadd939883a4b5adfa276373e12c70f651e83b7570f"
 
 [[files]]
+file = "config/pfm.json"
+hash = "0438e75598504d567e63eedd217d1267290ca2bc7b2dc24d71ed24750627b054"
+
+[[files]]
 file = "config/pipez-server.toml"
 hash = "d6975c7ce7394979f1870f853ef0b6cbd8a14e37a6f7009b31eb2845a95d4ef7"
 
@@ -2062,6 +2074,11 @@ hash = "63f497a33058aa6350e366b3f38befd238f6beb4240ac3f6f3fae8aad679e515"
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "a34cb55f2a55e2a4e47d6954948387105c14f0d0f2e800d003e1e7ec19c2904f"
+metafile = true
+
+[[files]]
+file = "mods/a-man-with-plushies.pw.toml"
+hash = "9d7cf428e93a7b18f871b9fa2950f86477fb80d21035c622123309db02dde670"
 metafile = true
 
 [[files]]
@@ -2625,6 +2642,11 @@ hash = "908b1a42156f9047fa8b3d8ef078a9717655d56186e380ed937ebf3400156a9d"
 metafile = true
 
 [[files]]
+file = "mods/furnitury.pw.toml"
+hash = "6f1597b4a89f9f9c9680f7dd8562212c1e9aa465295f51257035d55befc7e4a1"
+metafile = true
+
+[[files]]
 file = "mods/fusion-connected-textures.pw.toml"
 hash = "124605aa4b1529dac593c5fbfe596f1a1654082fb8b05a2e5961df15ed6ab268"
 metafile = true
@@ -2800,6 +2822,11 @@ hash = "04df77c921a891de3a2cfb8f0f9a6f61a4aa91640b90405a12d7bed93f8eead3"
 metafile = true
 
 [[files]]
+file = "mods/miku-plushies.pw.toml"
+hash = "46aa9479a7aadb6e322f8c2b2c6b14ab933b1a6ad85dfbac4e1d26d07c997b12"
+metafile = true
+
+[[files]]
 file = "mods/mmlib.pw.toml"
 hash = "59f033615895cd019f9fb168fa93590422c5050274630a8faec46460979a5156"
 metafile = true
@@ -2942,6 +2969,11 @@ metafile = true
 [[files]]
 file = "mods/owo-lib.pw.toml"
 hash = "b30bf3e10fdb43cb451091d4cc8ff88081895686c492c1bbff50ce0c74a3e85b"
+metafile = true
+
+[[files]]
+file = "mods/paladins-furniture.pw.toml"
+hash = "1d03201c8fe64445e96d192c79297e2931d4f8c2dfe28fc25afe4a5a49402b04"
 metafile = true
 
 [[files]]
@@ -3361,7 +3393,7 @@ hash = "2c3a085910eb28bd2ff1125cef2f2a91be388e318097c702d262caeee61ac4ad"
 
 [[files]]
 file = "patchouli_books/beginnerguide/en_us/entries/mods/building_mods.json"
-hash = "f0821f2251aaf2f9d3c5b1a96a06174f29aa77d0407269a74a139aa586396c93"
+hash = "efd207afd36da20ffb7131e8995c78d657e8c6df267cdac8d97ed8924022c8d2"
 
 [[files]]
 file = "patchouli_books/beginnerguide/en_us/entries/mods/crafting_on_a_stick.json"
