@@ -5,11 +5,11 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "A quick summary of the building mods of this modpack (check their blocks/items using JEI):"
+            "text": "A quick summary of the building mods of this modpack (check their blocks/items using JEI):$(br)$(br)$(li)Chipped$(li)Handcrafted$(li)Comforts$(li)Everything is Copper$(li)Chimes$(li)Additional Lights"
         },
         {
             "type": "patchouli:text",
-            "text": "$(li)Chipped$(li)Handcrafted$(li)Comforts$(li)Everything is Copper$(li)Chimes$(li)Additional Lights$(li)Macaw's Lights and Lamps$(li)Rechiseled$(li)WaterFrames$(li)Amendments$(li)Framed Blocks"
+            "text": "$(li)Macaw's Lights and Lamps$(li)Rechiseled$(li)WaterFrames$(li)Amendments$(li)Miku Plushies$(li)A Man With Plushies$(li)Furnitury$(li)Paladin's Furniture"
         }
     ]
 }

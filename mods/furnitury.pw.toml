@@ -1,0 +1,13 @@
+name = "Furnitury - Vanilla Styled Furniture"
+filename = "furnitury-2.2305-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/sNpla5PF/versions/luZnXN0a/furnitury-2.2305-neoforge-1.21.1.jar"
+hash-format = "sha512"
+hash = "2db4283fcd17d375fab08c771cffd3a3faef3047049dfee9a6ba72c6b3d8cfe88a94e7bac982c01b8fc4d955ad3b3d8a7b3f85053c5e706ffff77a108bd2c98f"
+
+[update]
+[update.modrinth]
+mod-id = "sNpla5PF"
+version = "luZnXN0a"

@@ -1,3 +1,10 @@
+### 0.8.0
+- Added mods:
+    - Miku Plushies
+    - A Man With Plushies
+    - Furnitury
+    - Paladin's Furniture Mod
+
 ### 0.7.0
 - Whenever the server does a backup, it's announced to all players.
 - Added mods:
