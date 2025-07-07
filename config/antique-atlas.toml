@@ -33,7 +33,7 @@ maxTilePixels = 1
 mapScale = 0
 # The maximum number of chunks to load onto the map per tick after entering a world
 # default: 100
-chunkTickLimit = 100
+chunkTickLimit = 20
 # How to handle biomes that aren't in any minecraft, conventional, or forge biome tags
 # options: TEST, MISSING, CRASH
 # default: MISSING
