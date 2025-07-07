@@ -1,3 +1,14 @@
+### 0.9.0
+- Removed Drink Beer Refill mod
+    - The mod is now discontinued and not receiving updates.
+    - In addition to this, the mod was the culprit of various client and server crashes.
+- Added mod: Brewin' And Chewin'
+- Removed client config for Simple Voice Chat so that modpack updates don't overwrite your voice settings
+- Changed `chunkTickLimit` in Antique Atlas config from 100 to 20, to help prevent players timing out
+- Added more Touhou Little Maid model packs:
+    - Mr. SD's Fantastic Arcade
+    - Stonaphros Decorations Pack
+
 ### 0.8.0
 - Added mods:
     - Miku Plushies
