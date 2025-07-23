@@ -1,8 +1,20 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/AMWPlushies-AltList-Server.toml"
+hash = "d00bc4ba47297fae770c48c5644e220b01a818b93b3a0e3fe32a75da7521a634"
+
+[[files]]
+file = "config/AMWPlushies-MainList-v4.4.0-Server.toml"
+hash = "11f01052ff328a11bd4b513a7a4ba48b0709821732ea2f19b620250ccb4614a4"
+
+[[files]]
 file = "config/AMWPlushies-Server.toml"
 hash = "ae530945a1ba7c0a30773d43e50486c873b881a9869bfb25dedfe6874303dde1"
+
+[[files]]
+file = "config/AMWPlushies-Settings-Server.toml"
+hash = "e051f85d6ee601f6517163599b115eeff4d09e89f5a9ffecbbe95d6904993309"
 
 [[files]]
 file = "config/CoroUtil/General.toml"
@@ -10,7 +22,7 @@ hash = "6003299fd97cb6b383ca3df88a2a676c565585799b1e14bb2987617ee189c7c2"
 
 [[files]]
 file = "config/DistantHorizons.toml"
-hash = "b3b10b26f584b994193f77b161e57a33e7fb3863b3221796b40ad6184b2dcd7b"
+hash = "2bfa444798308f6829598ba3542d8f335042fb996d23a1d587d008f901fc3332"
 
 [[files]]
 file = "config/EnderStorage.cfg"
@@ -138,15 +150,15 @@ hash = "14809bc0e5aac5c36dfc3f257e91c5eeaab8661d4dedc37176f30d18c2271434"
 
 [[files]]
 file = "config/apotheosis/apotheosis.cfg"
-hash = "f7b0c78b4440353a5587b481a907055bcecdb1066d1da9f18046f65615ffc8b1"
+hash = "1ff75b14fe3cb1ef43a3995152f82cc3a5fecf13109e8fa271395fc88f1d4d10"
 
 [[files]]
 file = "config/apotheosis/apothic_attributes.cfg"
-hash = "5a1bc794cdc9c20c8a179c402473cf735073d48358fb364e6ca7f7cac843ac56"
+hash = "b30ab5da1e2de7e21b46352a256592cb82ff60a453f4addb07c8aeb418645655"
 
 [[files]]
 file = "config/apotheosis/apothic_enchanting.cfg"
-hash = "557cc1b6ba1369f5d2459054cc2b9e9f91c58b9cdecb0a3023a911b435b1a9c8"
+hash = "d44a28ad5ba29bd441c06aa30938bc6ccac38d844a7517a9c965c99b67657abd"
 
 [[files]]
 file = "config/apotheosis/enchantments.cfg"
@@ -154,7 +166,7 @@ hash = "8a2c915b44d7106c6af240a0c5100e98ec83b176ea76ea0f3af52980822bdd61"
 
 [[files]]
 file = "config/apotheosis/name_generation.cfg"
-hash = "fabdfc396643b54d24807f43550130742a08a97866e214022e067c60c73b4af3"
+hash = "5f9940c0efcd5f7e735bee43608f075f4c6204ca6b3bedcb564ff3bdbc229d85"
 
 [[files]]
 file = "config/apothic_spawners.cfg"
@@ -1086,7 +1098,7 @@ hash = "6a46437b568805ea68db5424ab285c36a154c8e55cb2aa2c57115170399405ca"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "d537534e27e10f3570217b5a0301307bf73c1888f169b658d38d6acf054bc758"
+hash = "17cba8c105b717c45f9de4dc08f7c15d2a3a2e5ddf57fa9b1269f3baf51f2774"
 
 [[files]]
 file = "config/betterbeaconplacement.json5"
@@ -1135,6 +1147,14 @@ hash = "b78cccad5e036fc43fcf0fc3f17da81b993c3985cbff54dad2053f6ebe007de5"
 [[files]]
 file = "config/bottledair.json5"
 hash = "f3a16b3a531088b768a15c30064d708915ffde0edb5936c4495e6801f5377566"
+
+[[files]]
+file = "config/brewinandchewin-client.toml"
+hash = "1bb070627f60188b5924bd27f1e7fbf0b4cfe573c8a1f54bf7927c3c4d437f05"
+
+[[files]]
+file = "config/brewinandchewin-common.toml"
+hash = "cf7e8f3ae75a942e0c8b62f14fa68df3963b47c9c38895c2d7ba59c2bcb079ab"
 
 [[files]]
 file = "config/bwncr-common.toml"
@@ -1207,6 +1227,10 @@ hash = "3d6f57390c5b978d8bf11210bf91c48833fcec7b7a8123ab0a190e54ddcce791"
 [[files]]
 file = "config/corn_delight-common.toml"
 hash = "51791339b0380232788c03a4e3cc516f7069af82e0a6b6eedcaf5121395a6b2a"
+
+[[files]]
+file = "config/crafting_on_a_stick-common.toml"
+hash = "7aa919ccc518ba386206f2a0a5eae9931b99f6c576c4317a90ec1396c4072cfd"
 
 [[files]]
 file = "config/craftingtweaks-common.toml"
@@ -1526,7 +1550,7 @@ hash = "b4174dc6e985aa90be5002c14e94b956d8d586683c44b7b6710c44d08fb13648"
 
 [[files]]
 file = "config/jei/ingredient-list-mod-sort-order.ini"
-hash = "3b7364ac7be300c993893abf3734a2033b6d6990d161115f02ca628f9aa8a36d"
+hash = "7dfe9afd23a37623abf8219c91096df8a2046088e9a94d186dd6296658df56bf"
 
 [[files]]
 file = "config/jei/ingredient-list-type-sort-order.ini"
@@ -1550,7 +1574,7 @@ hash = "4eb3a3eb280558bdd2665fb4792d32551cb6dddc468776e66afc1c3ea981781e"
 
 [[files]]
 file = "config/jei/recipe-category-sort-order.ini"
-hash = "8f15bf544d686d88d1b0f1665c5ea1e09c8d9c324274b3e88ac075be589237fe"
+hash = "e3cea58ec343e310a9918b891ae4b7f1cf9086098bd9884ab5b36b9be9cdc39e"
 
 [[files]]
 file = "config/justzoom/config.txt"
@@ -1845,7 +1869,7 @@ hash = "eddf28a0e0d6c1027054eb40c290adc4be61ea6b40ca503094b6a40c444ab5ce"
 
 [[files]]
 file = "config/silentgear-common.toml"
-hash = "f4083fb678ef3a48ef4ba04f6c6c360d35c95fa193ec1aad1f3a22f994eaf3ba"
+hash = "8ec85ea73c28f04ad6600e8329d857a97ce000448ddbc14a7c779cba014528d2"
 
 [[files]]
 file = "config/simplebackups-common.toml"
@@ -1957,7 +1981,7 @@ hash = "499d188162ddcf7fcf450cdcdc96bd41ac582501ecad5ed4a74dd9ed6b01990a"
 
 [[files]]
 file = "config/touhou_little_maid-common.toml"
-hash = "2380d892df3ad3466c5965c241c1d4a54f7148b0b10630ae81f58dc6008519d7"
+hash = "6414373a8754b49869ad09a34562ae96630c89318e17ff2d1df6c6e576b56969"
 
 [[files]]
 file = "config/touhou_little_maid-server.toml"
@@ -1970,6 +1994,18 @@ hash = "825a80c52d9c12aa85e107dc72b07de447f2187c99081aea4e11eb0deeacde93"
 [[files]]
 file = "config/touhou_little_maid/info.json"
 hash = "812c67932e3f70481ea147b994f50af2b3eb965e1bddf12d5712997f3ecfca9f"
+
+[[files]]
+file = "config/touhou_little_maid/sites/llm.json"
+hash = "e69be04b3e060ef589356b04010cf3c4ca4235acf1308f8eb62dbd09471c011b"
+
+[[files]]
+file = "config/touhou_little_maid/sites/stt.json"
+hash = "27f7d12d618f68dba8d5be4816d4e11b577ac8e7c566f0d19f8f456b497a9f07"
+
+[[files]]
+file = "config/touhou_little_maid/sites/tts.json"
+hash = "62080f2405cb825d7639273e11d6c2c46516cdf1ca9cb9c8668a834d1d42514c"
 
 [[files]]
 file = "config/trashcans-common.toml"
@@ -2025,7 +2061,7 @@ hash = "5574e30aba1c43dbda734f1d3fed6a33b4cc053b09c6ace4a6036b57072e1677"
 
 [[files]]
 file = "config/waystones-common.toml"
-hash = "7daf369ae6d8e511cf1ae0697c9190cc7ad173302e7f7c6fd2edc0e771117565"
+hash = "c3dd52477b290893e8e5271821d13daeeec477ed466d7b2dd798b5551fcc6a57"
 
 [[files]]
 file = "config/weaponmaster_ydm-common.toml"
@@ -2033,7 +2069,7 @@ hash = "c7255423ebdb38712ccbeed269ed96525f70233c2bf5b9674483335e9fb76058"
 
 [[files]]
 file = "config/yigd.json"
-hash = "9bdb5d7ac13183691792c2bdf2b03744737b5a66e385e014146306313189bf0c"
+hash = "aa03d309c740143fb12ef3339c37c01b802a30cd6de5e0fa906f8804ef854612"
 
 [[files]]
 file = "defaultconfigs/ballistix.txt"
@@ -2062,17 +2098,17 @@ metafile = true
 
 [[files]]
 file = "mods/a-man-with-plushies.pw.toml"
-hash = "9d7cf428e93a7b18f871b9fa2950f86477fb80d21035c622123309db02dde670"
+hash = "e4a6c3a9d2a83a0aa8167f5683430895f95e25a3f80a5dca46c573ff65910920"
 metafile = true
 
 [[files]]
 file = "mods/accessories-cc-layer.pw.toml"
-hash = "e5473d05c6e3d08c992cecbaa3cb66ed154655c0bfdbb90860b3e4f54a4623ec"
+hash = "8f90a500df28d497fe7e323b40ee55640bc63141284ce2189a7766c976a91378"
 metafile = true
 
 [[files]]
 file = "mods/accessories.pw.toml"
-hash = "e2bcf8bbb03c7e120792f95d97f6c22038ab462a35c855d9475fdb4853760afc"
+hash = "87f3b1dbbc4cce1eeb5566e041fae7431b1f607cade6232df8417fd241e298f2"
 metafile = true
 
 [[files]]
@@ -2117,22 +2153,22 @@ metafile = true
 
 [[files]]
 file = "mods/apotheosis.pw.toml"
-hash = "4013533b1badbe2f2f66f2ef371437f9839d68994526da6b356e2f71fe64630d"
+hash = "39a7bd09537300445729e9c1a01875cf63d5f0ea6568ca0f4d1566e39e0743d3"
 metafile = true
 
 [[files]]
 file = "mods/apothic-attributes.pw.toml"
-hash = "24e36f10973754393c21fc0511864d7f41f970ea317afcbe1852a4bdd1bf5ddc"
+hash = "1e1f084a9466d9022785468c8cc0ae295d325fe0edae9550357acb1336f77570"
 metafile = true
 
 [[files]]
 file = "mods/apothic-enchanting.pw.toml"
-hash = "fa6548a3365d00453ebefb5f1f8b7f2fec9567eb7765e5914e767d2c8b692f91"
+hash = "c9ab3b137182dfc93ca072473554907a4d2e49caf73f99ebc0222dadb716c0c9"
 metafile = true
 
 [[files]]
 file = "mods/apothic-spawners.pw.toml"
-hash = "ca299f47588fee2bc81626e04146efa3f188da6f9e4b11bbac04502b9cdbc9dd"
+hash = "f8a652602e80477b83520fff4b68ea7195d575ade70d381b3a0ec28e0a13e545"
 metafile = true
 
 [[files]]
@@ -2157,7 +2193,7 @@ metafile = true
 
 [[files]]
 file = "mods/ars-elemental.pw.toml"
-hash = "ecc99c14cbb3fb7fa5e57d331d5827797fd43a3233ead28dc3533b6474b4628a"
+hash = "c6b229227e889fc727ce766eb46cd3e6438a9918b9ee7dfa591b085b8b4c6752"
 metafile = true
 
 [[files]]
@@ -2167,7 +2203,7 @@ metafile = true
 
 [[files]]
 file = "mods/ars-nouveau.pw.toml"
-hash = "fe73ccdcb15c65a81f5984bdbe2e414e46a20036ab018430b8c727b88c4f4d99"
+hash = "a317d934ccef99c5f680d5436b6a53eb9121210ee5e1ac5be538c22bef90055e"
 metafile = true
 
 [[files]]
@@ -2182,7 +2218,7 @@ metafile = true
 
 [[files]]
 file = "mods/artifacts.pw.toml"
-hash = "9456fae932c5ecb38b5e8bc5aeb260fd94b12337e3b2fee215d25399c737d9a4"
+hash = "6a92f9a1fd320a627754d36cfa06a905ca5183d3666d49bbbcede7ef910d96aa"
 metafile = true
 
 [[files]]
@@ -2352,7 +2388,7 @@ metafile = true
 
 [[files]]
 file = "mods/connector.pw.toml"
-hash = "0a4d0034c5a1379d5aa57c0a104aaa2adbb98f1e2b89d4ec0b7ef68df2e16a1a"
+hash = "9f920c5f1df2577cf374285e4aad4f2982a30ea2a3da1cf7ddaf25e04b3a2e31"
 metafile = true
 
 [[files]]
@@ -2382,7 +2418,7 @@ metafile = true
 
 [[files]]
 file = "mods/crafting-on-a-stick.pw.toml"
-hash = "4432564187779f29148c281f375dfb62a2382e0df82450cb39b42a79053dd096"
+hash = "c06a4497cf04a51081e3458d408f537d6e5dee211346f89e66c80ecef4eee106"
 metafile = true
 
 [[files]]
@@ -2432,7 +2468,7 @@ metafile = true
 
 [[files]]
 file = "mods/distanthorizons.pw.toml"
-hash = "007ca3fb8a617776705f8f38eab60a286fed6426a0ee1d792af6814f1bc24174"
+hash = "34fc0845727b08bc39e5b56444e0695b55f6a5471380f2d1d40c5548105da28e"
 metafile = true
 
 [[files]]
@@ -2707,7 +2743,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "c3c06a4839ecfd4717686f7394396a4fc66b7a2e8eabbdd51f23ab2a1099cc1e"
+hash = "f67aa60c765593a8c70f78296a460349c6aef5f4a16d173eae02e8803b545ad4"
 metafile = true
 
 [[files]]
@@ -2807,7 +2843,7 @@ metafile = true
 
 [[files]]
 file = "mods/miku-plushies.pw.toml"
-hash = "46aa9479a7aadb6e322f8c2b2c6b14ab933b1a6ad85dfbac4e1d26d07c997b12"
+hash = "28e20bb9465e0bae689dd49e79e02fe3470231622e12b3000ede1a1aed6d091a"
 metafile = true
 
 [[files]]
@@ -2872,7 +2908,7 @@ metafile = true
 
 [[files]]
 file = "mods/moyai.pw.toml"
-hash = "01b28f86410b670582e8494d33950916df0e50b32134ae9e8572bb32b6adba97"
+hash = "8b041aed68ea4b1e60100c865fd6510f18b0aa5efea7cc3cb1faab2bbe926ae1"
 metafile = true
 
 [[files]]
@@ -2997,7 +3033,7 @@ metafile = true
 
 [[files]]
 file = "mods/placebo.pw.toml"
-hash = "f828c12dbcb01967ae61cb5ae2c4c347900d3851e7d688263d5d0fbb72288706"
+hash = "c5ca38fd4e54c1c59f0caa0b696da20186eb6484432804012557a01af9948457"
 metafile = true
 
 [[files]]
@@ -3037,7 +3073,7 @@ metafile = true
 
 [[files]]
 file = "mods/rar-compat.pw.toml"
-hash = "2ac39a563920881824b70f17da5b31a72f9f0bb4272e96dec8f8ef74c7807cba"
+hash = "9fd3f4f0a9d5d145bd80f15f50605c45522da51ddbea2c0ac49c649e624fe92a"
 metafile = true
 
 [[files]]
@@ -3057,7 +3093,7 @@ metafile = true
 
 [[files]]
 file = "mods/relics-mod.pw.toml"
-hash = "6a63278c2c76634c20544514d6d5237d31d78076aed1e0e47b06276aa3293329"
+hash = "c29ea2e8b991a9c0060de48ea98eef0c349966432e56455cfa2901b9f2bbcccd"
 metafile = true
 
 [[files]]
@@ -3092,12 +3128,12 @@ metafile = true
 
 [[files]]
 file = "mods/silent-gear.pw.toml"
-hash = "249349859fa53244d07acc1b3142ea075f49c75f9a17321c44f79370aec4a183"
+hash = "3ef17cc38cbe19ee924f20f3bfebb7c52bb2bb0db5e578e32473870bd1de67fa"
 metafile = true
 
 [[files]]
 file = "mods/silent-lib.pw.toml"
-hash = "656acad02342c5c692559624d5a7a2f7d143d94d3b688cb15311695aa55a601a"
+hash = "0270a241e1d1c3c8e1ecda59aeaa5004771a57d46a4a470566cb7dd6d7e89c85"
 metafile = true
 
 [[files]]
@@ -3217,7 +3253,7 @@ metafile = true
 
 [[files]]
 file = "mods/touhou-little-maid.pw.toml"
-hash = "e5b1adaa0d48d374a9c569670071fc0a4aa5f983ea6468bf019c58c0a7b719e9"
+hash = "a022c050065fd459500633772f6feb563708d77ff72185a3834c04c6c8dea1f0"
 metafile = true
 
 [[files]]
@@ -3257,12 +3293,12 @@ metafile = true
 
 [[files]]
 file = "mods/watermedia.pw.toml"
-hash = "7a7ee4d3c2d9dec4adffd36e15fd6affb53a6b5f55406a7500a1bbd23c3127db"
+hash = "9ec1d0876bb7b8032fb738646e608efc206f16f6978c044acfbe4f8b38500b06"
 metafile = true
 
 [[files]]
 file = "mods/waystones.pw.toml"
-hash = "3d888e92caa63fa0937f5643e59bf5497fddbaa7ccd665279258bea96c1ba19d"
+hash = "588c54fc33f63da25e6e5b70c914606a2638bc89b6f27d3cbc115c8f82fb34e5"
 metafile = true
 
 [[files]]
@@ -3282,7 +3318,7 @@ metafile = true
 
 [[files]]
 file = "mods/yigd.pw.toml"
-hash = "b35e1b58a78dba71421b5e43b2328515f4d7feb2dbe64996e1b14d7c923bf476"
+hash = "ef80891ed72e87e1fd2fda3bcee9e8a50e5c4cf836283ae8ef4c81e7fd213fd0"
 metafile = true
 
 [[files]]

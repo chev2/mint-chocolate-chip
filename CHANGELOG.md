@@ -1,3 +1,34 @@
+### 0.10.0
+- Updated mods:
+    - A Man With Plushies (4.3.1 -> 4.4.0)
+    - Accessories (1.1.0-beta.35 -> 1.1.0-beta.45)
+    - Accessories Curios Compat Layer (9.3.1-beta.27 -> 9.3.1-beta.28)
+    - Apotheosis (8.3.1 -> 8.3.6)
+    - Apothic Attributes (2.8.0 -> 2.9.0)
+    - Apothic Enchanting (1.4.0 -> 1.4.4)
+    - Apothic Spawners (1.3.0 -> 1.3.2)
+    - Ars Elemental (0.7.3.0 -> 0.7.5.0.1)
+    - Ars Nouveau (5.8.1 -> 5.10.2)
+    - Artifacts (12.1.5 -> 13.0.6)
+    - Crafting on a Stick (1.21.0.1 -> 1.21.0.2)
+    - Distant Horizons (2.3.2-b -> 2.3.4-b)
+    - Iris (1.8.8 -> 1.8.12)
+    - Miku Plushies (1.6 -> 1.7)
+    - Moyai (2.1.5 -> 2.1.7)
+    - Placebo (9.8.0 -> 9.9.0)
+    - Relics (10.7.4 -> 10.7.5)
+    - Relics: Artifacts Compat (0.9.5 -> 0.9.6)
+    - Silent Gear (4.0.18 -> 4.0.25)
+    - Silent Lib (10.4.0 -> 10.5.1)
+    - Sinytra Connector (2.0.0-beta.7 -> 2.0.0-beta.8)
+    - Touhou Little Maid (1.2.2 hotfix -> 1.3.6)
+    - Watermedia (2.1.23 -> 2.1.26)
+    - Waystones (21.1.15 -> 21.1.20)
+    - You're in Grave Danger (2.0.11 -> 2.0.13)
+- Allow Lootr chests to be broken by players
+- Lowered Distant Horizons default render distance (256 -> 128)
+- Updated Neoforge (21.1.147 -> 21.1.193)
+
 ### 0.9.0
 - Removed Drink Beer Refill mod
     - The mod is now discontinued and not receiving updates.
