@@ -1,13 +1,13 @@
 name = "Miku Plushies"
-filename = "miku_plushie-1.7-1.21.1-neo-forge.jar"
+filename = "miku_plushie-1.8.0-1.21.1-neo-forge.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/LnqZM7XU/versions/4GD71tZ1/miku_plushie-1.7-1.21.1-neo-forge.jar"
+url = "https://cdn.modrinth.com/data/LnqZM7XU/versions/AS3eFnfZ/miku_plushie-1.8.0-1.21.1-neo-forge.jar"
 hash-format = "sha512"
-hash = "a00ce2274738f82dce24e31d8e508cd766e178c1e6bcb3a220fc9287c12024074086097b18d6cc9eba1e38536fd9bc57953f2f35b435652932d0353fb153545e"
+hash = "ab0c521a058bd9a092efb172105e67bf29308fbaa75a6395b8efd7331164d4afbd2ae1d0c765a7f1f6bf7ad8ab0d7e404c7adf0da0b75986c9c4cce227627100"
 
 [update]
 [update.modrinth]
 mod-id = "LnqZM7XU"
-version = "4GD71tZ1"
+version = "AS3eFnfZ"
