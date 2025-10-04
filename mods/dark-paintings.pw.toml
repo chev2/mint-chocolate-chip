@@ -1,13 +1,13 @@
 name = "Dark Paintings"
-filename = "darkpaintings-neoforge-1.21.1-21.1.2.jar"
+filename = "darkpaintings-neoforge-1.21.1-21.1.4.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/lFGQ4Hnk/versions/RQzxUime/darkpaintings-neoforge-1.21.1-21.1.2.jar"
+url = "https://cdn.modrinth.com/data/lFGQ4Hnk/versions/UUnQHzvL/darkpaintings-neoforge-1.21.1-21.1.4.jar"
 hash-format = "sha512"
-hash = "a0bea15823c8aba9d84e84a171c9f6dbcad597ff65a2a05ecc8724bb94fab658e2b185af8d45288350a2a4d1773cf57c88d6fc328751fca360ad28946e8c4647"
+hash = "96fe8d7daad4f0dd117a1b6fb0e732afbd9b21ff3cbaca58144913244eff934e12c3c1c2e9e2e244b97ddb9776c9ff055fd98336ed6883b64859f38d7b53c22d"
 
 [update]
 [update.modrinth]
 mod-id = "lFGQ4Hnk"
-version = "RQzxUime"
+version = "UUnQHzvL"
