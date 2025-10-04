@@ -1,0 +1,67 @@
+{
+  "config_version": 4,
+  "loadbuiltin": true,
+  "quark": false,
+  "dark": false,
+  "oldChooseWheel": false,
+  "perspective": true,
+  "default3rdPersonFront": false,
+  "showicon": true,
+  "enableNSFW": true,
+  "alwaysOpenScreen": false,
+  "debug": false,
+  "validate": false,
+  "validationThreshold": 8.0,
+  "emotesFolderOnLogicalServer": false,
+  "emotesDirectory": "emotes",
+  "autoFixEmoteStop": true,
+  "checkPose": true,
+  "alwaysValidateEmote": false,
+  "playersafety": true,
+  "stopthreshold": 0.04,
+  "yratio": 0.75,
+  "showHiddenConfig": false,
+  "neverRemoveBadIcon": false,
+  "exportBuiltin": false,
+  "hideWarning": false,
+  "fastmenu": {
+    "0": {
+      "0": "afb46857-0000-0000-0000-000000000000",
+      "1": "222706c5-50b0-49fd-9463-8207b5595186",
+      "2": "ebfb1e69-330a-4970-8bca-f5625c90681a",
+      "3": "3045b335-12ca-4ddb-aca5-0aef450a5e4c",
+      "4": "33b912f8-0aa0-45e6-a2d4-9b5677e6f35c",
+      "5": "931b2bda-a25e-4e55-957a-88c46f5e9a7b",
+      "6": "96506a5e-a69c-4a18-9add-d43dfd272fa6",
+      "7": "a74740f0-a0cb-47a3-be62-a47e2ac0d898"
+    },
+    "1": {
+      "0": "dce616d8-809a-4b39-8648-f6d433f338b8",
+      "1": "5c6ea91f-6fca-4a93-8563-911eb15fd980",
+      "2": "a150e498-6dbd-4341-97a0-498a9d131204",
+      "3": "691c6abb-a875-4d56-85f0-ad9776b732b0",
+      "4": "01a53a42-2fd2-418c-8e46-e4ee1ff9ee6a",
+      "5": "6f792aad-0589-47d1-900d-60d52337d77b",
+      "6": "1fac5d45-0000-0000-0000-000000000000",
+      "7": "c0e099c5-0000-0000-0000-000000000000"
+    },
+    "2": {
+      "0": "bc2d6562-0698-4dcb-a4db-18757ed99f8c",
+      "1": "7146ae20-0520-415e-beb4-9379f848f590",
+      "2": "1bf8b824-0000-0000-0000-000000000000",
+      "3": "87e8adf4-0000-0000-0000-000000000000",
+      "4": "d49d01e0-0f16-45b4-af55-35e18b65335a",
+      "5": "c6a83c85-b065-4163-accc-ca95abf7cd5e",
+      "6": "818fe2a6-3db8-4a27-b1ac-a0232c3ced7e",
+      "7": "f7115eb1-0e0d-4561-86ec-bb3e99948852"
+    },
+    "3": {
+      "2": "7f6b5c69-7710-462e-ab47-29754fca996d",
+      "3": "2f39ca1d-13e7-4559-8810-a44e73aea02e",
+      "4": "02da2b2e-d48e-47fd-a485-aa2c6fb78b6a",
+      "5": "289cf358-e8f0-4c55-9b21-fb0c8f46c30e",
+      "6": "53b6b21b-819f-411d-a39a-c5636c7563d0"
+    }
+  },
+  "keys": {}
+}

@@ -1294,7 +1294,7 @@ hash = "98d7ecdde12c615a7ef6183004a3ac81cad35226789fa2a99f2e268899ecbfb2"
 
 [[files]]
 file = "config/defaultoptions/keybindings.txt"
-hash = "d6d857b005997043ba1a8b9063ae774bc88eb10bbabfb5ecfcdbe863ff297c8a"
+hash = "421c66faf9c615dc352955a96278f5939d803532506f3a23e905888e9aff83f9"
 
 [[files]]
 file = "config/defaultoptions/options.txt"
@@ -1339,6 +1339,10 @@ hash = "3356ba7b68079927ace95c533f3bf4c1caadf6e3c52276280225c49b380451f7"
 [[files]]
 file = "config/elevatorid-server.toml"
 hash = "3861e1c9b5383e73030e33a4e00c34f64bce7a0f3f38dfb2be9c5ddedd2a7123"
+
+[[files]]
+file = "config/emotecraft.json"
+hash = "e466025d576a2a6f306c1381c957f8843f45143e2d8288b22cc9c28df1d20fcd"
 
 [[files]]
 file = "config/endersdelight-common.toml"
@@ -1889,7 +1893,7 @@ hash = "60efffeb27fafb363f5776d2b791c309d47abb6292094b9d7ac112f20e67f03a"
 
 [[files]]
 file = "config/skinlayers.json"
-hash = "3a4ba7374571e1a1ada3f3fd9e9a188ea817300a1684eec1793ed3b2f89872b8"
+hash = "64a6caf93d0e7470b933096425204eb350d8d3397f608590f77d4eca3fc1e237"
 
 [[files]]
 file = "config/sodium-extra-options.json"
@@ -2090,6 +2094,106 @@ hash = "4d5f55e2d426a0a949d58e64e457beca2c61c0e5024df7b2a8048806643a54c7"
 [[files]]
 file = "defaultconfigs/nuclear science.txt"
 hash = "63f497a33058aa6350e366b3f38befd238f6beb4240ac3f6f3fae8aad679e515"
+
+[[files]]
+file = "emotes/A-train.emotecraft"
+hash = "dd29f33e8f9df58e25a8a9c8bd8d159411816b220b53879f0649d096a380345c"
+
+[[files]]
+file = "emotes/Baller.emotecraft"
+hash = "5e5689fb0983ee5a0aa60e20fdf122bcffc54819e6002925d83bf3b17e2d1fad"
+
+[[files]]
+file = "emotes/Bird is the Word.emotecraft"
+hash = "07439938e635a75306ddca38aee26a5cb4d8b6e866f5767c18590277ffb0939b"
+
+[[files]]
+file = "emotes/Breakdance Flare.emotecraft"
+hash = "cf8bd200b90076f50cfb927bfebe528664b7720fb2d054ba21a830b682ddc815"
+
+[[files]]
+file = "emotes/Burning Desire.emotecraft"
+hash = "ad1d52a3923d8d484e25c6da857f9f99dd3eaea59dd55e7b4a2916eb04dd6f26"
+
+[[files]]
+file = "emotes/CaramellDansen.emotecraft"
+hash = "cba92c66a47d4a6692ae17eecef931b8e8ec44b1f7500c2bc60fffa30f703548"
+
+[[files]]
+file = "emotes/Dance Moves.emotecraft"
+hash = "9aeb3d1895231fca8039abd6d3ee1c7f55597ae393a20eed0d89eedf02736dcc"
+
+[[files]]
+file = "emotes/Family Guy Death.emotecraft"
+hash = "b36d60ceea4397a4fe14c311eece5d489b8c1b8ef12d14e436a942a03a0fcc70"
+
+[[files]]
+file = "emotes/Flinged.emotecraft"
+hash = "a8d1725a9440b199a13032f0f6ab17aa572bca26d18343cbee1c05ad983e3df3"
+
+[[files]]
+file = "emotes/Gagnam style.emotecraft"
+hash = "1a0ef18252009ff5b2e41543bcc1a1b1c086a7f690c9b0d20f891992f09cebe4"
+
+[[files]]
+file = "emotes/Get Griddy.emotecraft"
+hash = "a8ab90c4536a5fbcee374e6d50a340eedb7ee43e948801c507f22d63117398e4"
+
+[[files]]
+file = "emotes/GigaChad.emotecraft"
+hash = "606397e6f922cc6bb2b2e8b5fedd0c47dbac108ff4a6336efe07960c260b4816"
+
+[[files]]
+file = "emotes/Headpat.emotecraft"
+hash = "17eaf371df0d8478621ceedd6db7ddf1d881cac6788114ee286878336aeb8142"
+
+[[files]]
+file = "emotes/Hug.emotecraft"
+hash = "74d014ecfdd67f41e7ca41b7daaed92a20bcbd87c62040c9caf699fbda82d557"
+
+[[files]]
+file = "emotes/Killed.emotecraft"
+hash = "62a3b6196de9b8990811fb074ded3951afe661ca2fe7e33a36966c79ee56e572"
+
+[[files]]
+file = "emotes/Mewing.emotecraft"
+hash = "a8086de8080b97fb627e7718e0a18c9e15928d9e2e12ab6ac7dcda74e4207c72"
+
+[[files]]
+file = "emotes/Rat Dance 1.2.emotecraft"
+hash = "43c9a333c716446bfb170ffb5a0c68dd48c8be555f8cccacf0b2896206caedf2"
+
+[[files]]
+file = "emotes/Reverential Bow.emotecraft"
+hash = "b2dae9c34edf1e4c2bcc45a21279c3b5bc5b738b36b2c277e013fffea292bd3f"
+
+[[files]]
+file = "emotes/Showing suit.emotecraft"
+hash = "118f9ea44e99aefa3f825015ec1296b46d17ad3ee61c35eae15e4ecf4c7feeaf"
+
+[[files]]
+file = "emotes/Smug dance.emotecraft"
+hash = "30f2638873e95da85162307622e538701e5771822ecc9d8b062bb5e045be753c"
+
+[[files]]
+file = "emotes/Twerk.emotecraft"
+hash = "bc4500b91c27489300db6fd4447bd8057ef4054633873bd264b03010d09c5f95"
+
+[[files]]
+file = "emotes/Yamcha.emotecraft"
+hash = "7f7cab6aa8bbeb894c807d888d0bfd0855ea758b6e14caf905e14b967657135c"
+
+[[files]]
+file = "emotes/cool sit.emotecraft"
+hash = "b7fc49d00052854631db398dd8a80e7d8669eded5394906cf264f1b7a407005d"
+
+[[files]]
+file = "emotes/lean.emotecraft"
+hash = "7f350aea4553ad0ddbd4296c430a24a0e93361c8653a03bd7b2604d1fec052bf"
+
+[[files]]
+file = "emotes/yoinky sploinky.emotecraft"
+hash = "05933bc57359c9b7ace9a619eeb9dac1dac4eca54187e4145cc949a5ed03276f"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
@@ -2522,6 +2626,11 @@ hash = "9e2b351f3cabb1252259f5383e6f2fec3e3d90534dbecddef4ed183eba42f35a"
 metafile = true
 
 [[files]]
+file = "mods/emotecraft.pw.toml"
+hash = "ee66efb9eae03c2f060086e26c9d9e4a9fbece4cd1f8fc92dfbf2771f3bad296"
+metafile = true
+
+[[files]]
 file = "mods/ender-storage.pw.toml"
 hash = "302bd3b2339329f655f6bd46c3fe198a3bdd2eff755f9b64b2c1ebc10d3399c0"
 metafile = true
@@ -2534,11 +2643,6 @@ metafile = true
 [[files]]
 file = "mods/ends-delight.pw.toml"
 hash = "c31e8aea1f4ddc50d79c6dfa46dec8cbbf1a6108ff74db140baa0395ea4c5766"
-metafile = true
-
-[[files]]
-file = "mods/entity-model-features.pw.toml"
-hash = "3a4e194e945214cc457178f48e65b9ab6a8201b6d15b9736cd673324b70b6edd"
 metafile = true
 
 [[files]]

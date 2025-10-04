@@ -216,3 +216,5 @@ key_key.irons_spellbooks.spell_quick_cast_15:key.keyboard.unknown:
 key_justzoom.keybinds.keybind.zoom:key.keyboard.c:
 key_guifollowers.key.clearlist:key.keyboard.backslash:
 key_key.entityculling.toggle:key.keyboard.unknown:
+key_key.emotecraft.fastchoose:key.keyboard.b:CONTROL
+key_key.emotecraft.stop:key.keyboard.unknown:
