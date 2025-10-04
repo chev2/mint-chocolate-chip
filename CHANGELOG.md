@@ -1,3 +1,7 @@
+### 0.11.1
+- Change Cool Rain realm metadata from shared to clientside only
+- Hotfix for Occultism to prevent server crashes (mod version 1.192.1)
+
 ### 0.11.0
 - Added mods:
     - Emotecraft

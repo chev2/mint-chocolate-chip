@@ -1098,7 +1098,7 @@ hash = "6a46437b568805ea68db5424ab285c36a154c8e55cb2aa2c57115170399405ca"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "f75c4a278d79c097d645a4a8c650ebeb5ad922b6e6d505bb9fb2e82366d4046a"
+hash = "978cf9702ade5fc0e880be9e7b567532f5412224ca8bb9e4a2721dcc74c415c7"
 
 [[files]]
 file = "config/betterbeaconplacement.json5"
@@ -2521,7 +2521,7 @@ metafile = true
 
 [[files]]
 file = "mods/coolrain.pw.toml"
-hash = "999fc9cbe0cf0aedfa4bea3b0cd75f5143e5e62bb848a8296e7618e3b31f2ee1"
+hash = "6af579972dbebc9e302f0df2dc80ac7dc3150951550f4dfad6698878ffa305c8"
 metafile = true
 
 [[files]]
@@ -3096,7 +3096,7 @@ metafile = true
 
 [[files]]
 file = "mods/occultism.pw.toml"
-hash = "43613d8e46f61e93ddfc7681ad5d9934c6886eaa7d507f3cb05f469acb3fdf96"
+hash = "eeba05afe6b2ade93d0e585ba8b2c6da1a824ae5236032c254c9c2b5d1265e15"
 metafile = true
 
 [[files]]
