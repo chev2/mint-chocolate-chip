@@ -1,3 +1,49 @@
+### 0.11.0
+- Added mods:
+    - Emotecraft
+        - Open the emote menu with CTRL + B
+    - Not Enough Glyphs
+    - Cool Rain
+    - Particle Rain
+    - YetAnotherConfigLibrary (dependency for Particle Rain)
+- Added resource packs (enabled by default):
+    - Gentler weather sounds
+- Updated mods:
+    - 3D Skin Layers
+    - Aether's Delight
+    - Almost Unified
+    - Apothic Enchanting
+    - Appleskin
+    - Ars Delight
+    - Ars Nouveau
+    - Ars Ocultas
+    - Collective
+    - Corn Delight
+    - Creative Core
+    - Dark Paintings
+    - Farmers Delight
+    - Furnitury
+    - GUI Followers
+    - Iron's Spells n Spellbooks
+    - Jade
+    - JEI
+    - Luki's Grand Capitals
+    - Macaw's Holidays
+    - Macaw's Lights and Lamps
+    - Miku Plushies
+    - ModernFix
+    - Occultism
+    - Paladin's Furniture
+    - Pam's HarvestCraft 2 - Food Core
+    - Particular Reforged
+    - Touhou Little Maid
+    - Waterframes
+    - Watermedia
+    - Waystones
+- Updated the preinstalled shader packs (BSL, Complementary Reimagined & Super Duper Vanilla)
+- Disabled Distant Horizons generation progress popup
+- Updated Neoforge (21.1.193 -> 21.1.209)
+
 ### 0.10.0
 - Updated mods:
     - A Man With Plushies (4.3.1 -> 4.4.0)
